@@ -342,7 +342,9 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
         <strong>BASIC</strong> - Beginner’s all-purpose symbolic instruction code
       </li>
       <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px;
----
+
+        
+  ---
 
 ## 🎮 Favorite Tools & Tech
 
