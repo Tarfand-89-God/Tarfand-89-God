@@ -37,7 +37,7 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-## 🌐 Programming Languages I Master (A Universe of Code 💥):
+## 🌐 Programming Languages I Use (All of them 💣):
 
 <table align="center" style="background-color: #1a1a1a; border-collapse: collapse; border-spacing: 0;">
   <tr>
