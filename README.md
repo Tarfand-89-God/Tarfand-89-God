@@ -203,147 +203,281 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 ## 🌐 Other Languages I Know 💻
 
 <div style="background-color: #1a1a1a; color: #ffffff; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
-  <section style="margin-bottom: 20px;">
-    <h3 style="color: #00ffcc; text-align: center;">🛠️ Systems & Low-Level Legends</h3>
-    <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>C</strong> - The foundation of all
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Assembly</strong> - Raw machine mastery
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Ada</strong> - Safety-critical systems
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>D</strong> - C++ evolution
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Zig</strong> - Modern systems language
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>V</strong> - Simple and fast
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>BLISS</strong> - Block structured language for systems
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>BCPL</strong> - Predecessor to C
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Modula</strong> - Structured programming evolution
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Eiffel</strong> - Object-oriented design focus
-      </li>
-    </ul>
-  </section>
 
-  <section style="margin-bottom: 20px;">
-    <h3 style="color: #00ffcc; text-align: center;">🎨 Scripting & Automation</h3>
-    <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Tcl</strong> - Toolkit scripting
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>AppleScript</strong> - macOS automation
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Rexx</strong> - Easy scripting for mainframes
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Ksh</strong> - Korn shell scripting
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Zsh</strong> - Z shell for advanced users
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Fish</strong> - Friendly interactive shell
-      </li>
-    </ul>
-  </section>
+### 🛠️ Systems & Low-Level Legends
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>C</strong> - The foundation of all
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Assembly</strong> - Raw machine mastery
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Ada</strong> - Safety-critical systems
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>D</strong> - C++ evolution
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Zig</strong> - Modern systems language
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>V</strong> - Simple and fast
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>BLISS</strong> - Block structured language for systems
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>BCPL</strong> - Predecessor to C
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Modula</strong> - Structured programming evolution
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Eiffel</strong> - Object-oriented design focus
+  </li>
+</ul>
 
-  <section style="margin-bottom: 20px;">
-    <h3 style="color: #00ffcc; text-align: center;">🧠 Functional & Academic</h3>
-    <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Erlang</strong> - Concurrency pioneer
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Lisp</strong> - AI and macro magic
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Scheme</strong> - Minimalist elegance
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Racket</strong> - Programmable programming
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Prolog</strong> - Logic programming
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>APL</strong> - Array-based genius
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>ML</strong> - Strongly typed functional language
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Futhark</strong> - Parallel functional for GPUs
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Mercury</strong> - Logical-functional hybrid
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Oz</strong> - Multi-paradigm research language
-      </li>
-    </ul>
-  </section>
+### 🎨 Scripting & Automation
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Tcl</strong> - Toolkit scripting
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>AppleScript</strong> - macOS automation
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Rexx</strong> - Easy scripting for mainframes
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Ksh</strong> - Korn shell scripting
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Zsh</strong> - Z shell for advanced users
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Fish</strong> - Friendly interactive shell
+  </li>
+</ul>
 
-  <section style="margin-bottom: 20px;">
-    <h3 style="color: #00ffcc; text-align: center;">🕰️ Legacy & Niche</h3>
-    <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>COBOL</strong> - Business backbone
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Pascal</strong> - Educational classic
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>ALGOL</strong> - Algorithm ancestor
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>RPG</strong> - IBM legacy
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Forth</strong> - Stack-based innovator
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Smalltalk</strong> - OOP pioneer
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Modula-2</strong> - Structured systems
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>PL/I</strong> - General-purpose for IBM
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>JOVIAL</strong> - Military software language
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Simula</strong> - Simulation and OOP origin
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>SNOBOL</strong> - String processing pioneer
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>Icon</strong> - Successor to SNOBOL
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
-        <strong>BASIC</strong> - Beginner’s all-purpose symbolic instruction code
-      </li>
-      <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px;
+### 🧠 Functional & Academic
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Erlang</strong> - Concurrency pioneer
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Lisp</strong> - AI and macro magic
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Scheme</strong> - Minimalist elegance
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Racket</strong> - Programmable programming
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Prolog</strong> - Logic programming
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>APL</strong> - Array-based genius
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>ML</strong> - Strongly typed functional language
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Futhark</strong> - Parallel functional for GPUs
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Mercury</strong> - Logical-functional hybrid
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Oz</strong> - Multi-paradigm research language
+  </li>
+</ul>
 
-        
+### 🕰️ Legacy & Niche
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>COBOL</strong> - Business backbone
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Pascal</strong> - Educational classic
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>ALGOL</strong> - Algorithm ancestor
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>RPG</strong> - IBM legacy
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Forth</strong> - Stack-based innovator
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Smalltalk</strong> - OOP pioneer
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Modula-2</strong> - Structured systems
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>PL/I</strong> - General-purpose for IBM
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>JOVIAL</strong> - Military software language
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Simula</strong> - Simulation and OOP origin
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>SNOBOL</strong> - String processing pioneer
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Icon</strong> - Successor to SNOBOL
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>BASIC</strong> - Beginner’s all-purpose symbolic instruction code
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Logo</strong> - Educational with turtle graphics
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>MUMPS</strong> - Medical database language
+  </li>
+</ul>
+
+### 🌐 Web & Frontend
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Dart</strong> - Flutter’s engine
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Elixir</strong> - Web-scale concurrency
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>ActionScript</strong> - Flash-based scripting
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>ColdFusion</strong> - Web development with tags
+  </li>
+</ul>
+
+### 🎮 Game & Domain-Specific
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>UnityScript</strong> - Game scripting
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>GDScript</strong> - Godot’s language
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Solidity</strong> - Blockchain contracts
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>VHDL</strong> - Hardware description
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Verilog</strong> - Digital design
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>R</strong> - Statistical analysis
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>SQL</strong> - Data querying
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>ABAP</strong> - SAP business applications
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>LabVIEW</strong> - Graphical programming for engineering
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>SPARK</strong> - Secure Ada variant
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Clarion</strong> - Database-driven applications
+  </li>
+</ul>
+
+### 🚀 Emerging & Experimental
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Nim</strong> - Efficient and elegant
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Red</strong> - Rebol successor
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Rebol</strong> - Data-centric scripting
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Pony</strong> - Actor-based safety
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Ballerina</strong> - Cloud-native integration
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Vlang</strong> - Simple and performant
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Carbon</strong> - C++ successor experiment
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Ziglang</strong> - System-level with safety
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Grain</strong> - Functional for web assembly
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Gleam</strong> - Type-safe for Erlang VM
+  </li>
+</ul>
+
+### 📚 Esoteric & Rare
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Brainfuck</strong> - Minimalist challenge
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>INTERCAL</strong> - Humor in code
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Malbolge</strong> - Uncrackable enigma
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Whitespace</strong> - Invisible coding
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Befunge</strong> - 2D fun
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Piet</strong> - Visual art-based language
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Chef</strong> - Recipe-style coding
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Shakespeare</strong> - Play-based programming
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>LOLCODE</strong> - Internet meme language
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Velato</strong> - MIDI-based esoteric
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Unlambda</strong> - Lambda calculus extreme
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Thue</strong> - String rewriting system
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Ook!</strong> - Orangutan-inspired
+  </li>
+  <li style="background-color: #2a2a2a; padding: 10px; border-radius: 5px; width: 200px; text-align: center;">
+    <strong>Deadfish</strong> - Simple accumulator language
+  </li>
+</ul>
+
+</div>
+
 ---
 
 ## 🎮 Favorite Tools & Tech
