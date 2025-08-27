@@ -188,8 +188,8 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
       <br />Clojure
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=Plankalkül" width="48"/>
-      <br />Plankalkül
+      <img src="https://skillicons.dev/icons?i=blender" width="48"/>
+      <br />Blender
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=kotlin" width="48"/>
