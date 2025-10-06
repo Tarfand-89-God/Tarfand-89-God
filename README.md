@@ -4,7 +4,7 @@
 <h3 align="center">⚡ The God of Light and Balance ⚡</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/6f/6f03ccf3e11ed49a3d0b2b0a6a13283d_w200.gif" width="500" alt="Cosmic Light Banner">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="500" alt="Cosmic Banner">
 </p>
 
 ---
@@ -38,7 +38,7 @@ because creation has no limits under **The Light of Tarfand 89.**
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Tarfand 89's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Streak Stats" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ because creation has no limits under **The Light of Tarfand 89.**
 
 ## 🐍 Contribution Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarfand-89-God/Tarfand-89-God/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Tarfand-89-God/Tarfand-89-God/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ because creation has no limits under **The Light of Tarfand 89.**
 > “Balance is not silence — it’s harmony in chaos.”  
 
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/YFzS.gif" width="300" alt="Light and Balance">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Light and Balance">
 </p>
 
 ---
