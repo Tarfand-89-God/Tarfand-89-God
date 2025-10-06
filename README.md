@@ -47,12 +47,6 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ## 🌐 Programming Languages I Use (All of them 💣)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c,cs,ruby,go,rust,php,swift,kotlin,dart,lua,haskell,scala,perl,bash,solidity,v,zig,elixir,assembly,fortran,matlab,sql,tsx,blender,yaml,xml&perline=10" 
-       onerror="this.parentElement.innerHTML = '<div style=\'color: #666; font-size: 14px; padding: 20px;\'>🚀 Loading Tech Stack...</div>'"/>
-</p>
-
-<!-- Fallback Badges -->
 <div align="center" id="fallback-badges" style="display: none;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -81,15 +75,6 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
 </div>
 
-<script>
-  setTimeout(() => {
-    const skillIcons = document.querySelector('img[src*="skillicons.dev"]');
-    if (!skillIcons || !skillIcons.complete || skillIcons.naturalHeight === 0) {
-      document.getElementById('fallback-badges').style.display = 'block';
-      if(skillIcons) skillIcons.style.display = 'none';
-    }
-  }, 2000);
-</script>
 
 #### 🧠 Functional & Declarative Languages
 - Clojure (JVM-based Lisp)
