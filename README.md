@@ -318,9 +318,8 @@ Forge alliances across realms. Let's collaborate on epic builds, debug cosmic an
   <a href="https://t.me/Tarfand_89">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+
 </div>
-
-
 <p align="center">
   <em>Open to mentorship, collaborations, and interstellar idea exchanges. DM away! 🌌</em>
 </p>
