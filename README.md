@@ -256,14 +256,23 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-## 📈 GitHub Stats – Power Level: MAX 💥
+## 📊 Stats & Power Level
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarfand-89&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89&layout=compact&theme=tokyonight&langs_count=50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFD700" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Achievements of Light
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </p>
 
 ---
