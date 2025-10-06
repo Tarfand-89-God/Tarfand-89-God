@@ -38,7 +38,7 @@ because creation has no limits under **The Light of Tarfand 89.**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Tarfand 89's Streak Stats" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ because creation has no limits under **The Light of Tarfand 89.**
 
 ## 🐍 Contribution Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarfand-89-God/Tarfand-89-God/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Tarfand-89-God/Tarfand-89-God/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
