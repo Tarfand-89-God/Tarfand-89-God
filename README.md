@@ -45,23 +45,51 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ## 🌐 Programming Languages I Use (All of them 💣):
 
-<div align="center">
+## 🌐 Programming Languages I Use (All of them 💣)
 
-### 🌐 Web Development
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Node.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c,cs,ruby,go,rust,php,swift,kotlin,dart,lua,haskell,scala,perl,bash,solidity,v,zig,elixir,assembly,fortran,matlab,sql,tsx,blender,yaml,xml&perline=10" 
+       onerror="this.parentElement.innerHTML = '<div style=\'color: #666; font-size: 14px; padding: 20px;\'>🚀 Loading Tech Stack...</div>'"/>
+</p>
 
-### 💾 Systems & Backend  
-`Python` `Java` `C++` `C#` `Go` `Rust` `PHP` `Ruby`
-
-### 📱 Mobile & Modern
-`Swift` `Kotlin` `Dart` `Flutter` `React Native`
-
-### 🎯 Specialized
-`SQL` `Assembly` `Haskell` `Scala` `MATLAB` `Solidity`
-
+<!-- Fallback Badges -->
+<div align="center" id="fallback-badges" style="display: none;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" alt="Perl" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
 </div>
 
----
+<script>
+  setTimeout(() => {
+    const skillIcons = document.querySelector('img[src*="skillicons.dev"]');
+    if (!skillIcons || !skillIcons.complete || skillIcons.naturalHeight === 0) {
+      document.getElementById('fallback-badges').style.display = 'block';
+      if(skillIcons) skillIcons.style.display = 'none';
+    }
+  }, 2000);
+</script>
 
 #### 🧠 Functional & Declarative Languages
 - Clojure (JVM-based Lisp)
