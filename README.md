@@ -310,6 +310,21 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
+## 📞 Connect in the Cosmos
+
+Forge alliances across realms. Let's collaborate on epic builds, debug cosmic anomalies, or brainstorm the next mod revolution.
+
+<div align="center">
+  <a href="https://t.me/Tarfand_89">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<p align="center">
+  <em>Open to mentorship, collaborations, and interstellar idea exchanges. DM away! 🌌</em>
+</p>
+---
+
 ## ☄️ Final Words
 
 > “I’m not just a developer.  
