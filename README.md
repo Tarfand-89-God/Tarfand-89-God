@@ -43,11 +43,23 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-## 🌐 Programming Languages I Use (All of them 💣)
+## 🌐 Programming Languages I Use (All of them 💣):
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c,cs,ruby,go,rust,php,swift,kotlin,dart,lua,haskell,scala,perl,bash,solidity,v,zig,elixir,assembly,fortran,matlab,sql,tsx,blender,yaml,xml&perline=10" />
-</p>
+<div align="center">
+
+### 🌐 Web Development
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Node.js`
+
+### 💾 Systems & Backend  
+`Python` `Java` `C++` `C#` `Go` `Rust` `PHP` `Ruby`
+
+### 📱 Mobile & Modern
+`Swift` `Kotlin` `Dart` `Flutter` `React Native`
+
+### 🎯 Specialized
+`SQL` `Assembly` `Haskell` `Scala` `MATLAB` `Solidity`
+
+</div>
 
 ---
 
