@@ -349,18 +349,23 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ## 📞 Connect in the Cosmos
 
-Forge alliances across realms. Let's collaborate on epic builds, debug cosmic anomalies, or brainstorm the next mod revolution.
+Forge alliances across realms. Let's collaborate on epic builds, debug cosmic anomalies, or brainstorm the next mod revolution. ⚡
 
 <div align="center">
 
 <a href="https://t.me/Tarfand_89" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
 </a>
+
+<a href="https://discord.com/users/1090642198904713286" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" />
+</a>
+
 </div>
 
-
 <p align="center">
-  <em>Open to mentorship, collaborations, and interstellar idea exchanges. DM away! 🌌</em>
+  <em>Open to mentorship, collaborations, and interstellar idea exchanges. DM away! 🌌</em><br>
+  <strong>— 👑 Tarfand 89 👑</strong>
 </p>
 
 ---
