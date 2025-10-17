@@ -43,7 +43,7 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-## 🌐 Programming Languages I Use (All of them 💣):
+## 🌐 Programming Languages I Use ( All of them 💣 ):
 
 <div align="center">
 
