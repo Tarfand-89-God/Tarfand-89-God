@@ -43,72 +43,127 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-## 🌐 Programming Languages I Use ( All of them 💣 ):
+## 🌐 Programming Languages & Technologies
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <th colspan="6" align="center">
-      💻 <span style="color:#FFD700;">Programming Languages & Technologies</span> ⚡
-    </th>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/html-5.png"/><br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/css3.png"/><br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/javascript.png"/><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/typescript.png"/><br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/python.png"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br/>Java
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br/>C++
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/c-programming.png"/><br/>C
+    </td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br/>C#
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/golang.png"/><br/>Go
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/rust-programming-language.png"/><br/>Rust
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/r-project.png"/><br/>R
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/swift.png"/><br/>Swift
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/kotlin.png"/><br/>Kotlin
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/dart.png"/><br/>Dart
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/lua-language.png"/><br/>Lua
+    </td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/haskell.png"/><br/>Haskell
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/scala.png"/><br/>Scala
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/solidity.png"/><br/>Solidity
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/sql.png"/><br/>SQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/json.png"/><br/>JSON
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/markdown.png"/><br/>Markdown
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/graphql.png"/><br/>GraphQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/yaml.png"/><br/>YAML
+    </td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/bash.png"/><br/>Bash
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/powershell.png"/><br/>PowerShell
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/perl.png"/><br/>Perl
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/matlab.png"/><br/>MATLAB
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/blender-3d.png"/><br/>Blender
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/php.png"/><br/>PHP
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/ruby-programming-language.png"/><br/>Ruby
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/console.png"/><br/>Assembly
+    </td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/cobol.png"/><br/>COBOL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/fortran.png"/><br/>Fortran
+    </td>
   </tr>
-
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=windows-terminal&logoColor=black" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /></td>
-  </tr>
-
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/COBOL-004B87?style=for-the-badge&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logoColor=white" /></td>
-  </tr>
-
 </table>
+
 
 
 #### 🧠 Functional & Declarative Languages
