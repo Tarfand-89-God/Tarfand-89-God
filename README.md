@@ -412,10 +412,6 @@ Forge alliances across realms. Let's collaborate on epic builds, debug cosmic an
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
 </a>
 
-<a href="https://rebrand.ly/in8aob8" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" />
-</a>
-
 </div>
 
 <p align="center">
