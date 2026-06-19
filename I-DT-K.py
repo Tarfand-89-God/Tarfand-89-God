@@ -3,6 +3,7 @@ import marshal, sys, os, subprocess, importlib.util
 # BASE_PATH = '../..' 
 BASE_PATH = 'https://l8p.ir/encoded_files'
 
+
 file_name_without_ext = 'bot_decode-357-1b-free'
 
 def install_package(package):
