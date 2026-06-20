@@ -1,39 +1,43 @@
 <div align="center">
 
-# ✦ Tarfand 89 ✦  
-### *The God of Light & Balance*  
-### *Builder of worlds · Architect of logic · Keeper of the code*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Tarfand%2089&fontSize=52&fontAlignY=38&desc=The%20God%20of%20Light%20%26%20Balance&descAlignY=58&animation=fadeIn&fontColor=ffffff&descColor=7ee787&color=0d1117&section=header" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Tarfand%2089&fontSize=58&fontAlignY=34&desc=The%20God%20of%20Light%20%26%20Balance%20%E2%8B%86%20Cyber%20Command%20Center%20%E2%8B%86%20Builder%20of%20Worlds&descAlignY=56&animation=fadeIn&fontColor=ffffff&descColor=7ee787&color=0d1117" width="100%" alt="hero-banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&width=900&lines=Cyber+command+center+builder;Systems+architect+with+cinematic+instinct;Python%2C+JavaScript%2C+TypeScript%2C+PHP%2C+C%2B%2B;Dark+designs%2C+clean+logic%2C+precision+execution;Light+and+balance+in+every+line+of+code" alt="Typing SVG" />
+# **Tarfand 89**
+## *The God of Light & Balance*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=900&color=7EE787&center=true&vCenter=true&width=980&lines=Builder+of+worlds;Architect+of+logic;Keeper+of+the+code;Dark+craft%2C+bright+precision%2C+silent+power;From+web+systems+to+cinematic+interfaces;The+legend+is+in+the+details" alt="typing-animation" />
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-7ee787?style=for-the-badge&labelColor=0d1117&logo=github" />
 <img src="https://img.shields.io/badge/VIBE-CYBERPUNK-00d9ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/IDENTITY-The%20God%20of%20Light%20%26%20Balance-f7c948?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FOCUS-BUILD%20THE%20UNFORGETTABLE-b56cff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IDENTITY-TARFAND%2089-f7c948?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PHILOSOPHY-LIGHT%20%26%20BALANCE-b56cff?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7ee787" width="100%" alt="divider"/>
 
 </div>
 
 ---
 
-## 🜲 About Me
+## 🜂 About Me
 
-I am **Tarfand 89** — a creator at the seam between signal and shadow.  
-I build systems that feel alive, interfaces that feel cinematic, and code that carries both discipline and myth.
+I am **Tarfand 89** — a digital force shaped by contrast: calm and dominant, elegant and sharp, technical and cinematic.
 
-I move between front-end elegance, backend machinery, automation, logic, graphics, and experimental engineering with the same goal: **make the machine feel legendary**.
+I do not build ordinary interfaces. I build **command centers**, **identity systems**, **living dashboards**, and **code experiences** that feel like they were engineered by light itself.
 
-- I design with atmosphere, but never at the cost of clarity.
-- I write code like architecture: deliberate, durable, and exact.
-- I treat performance, structure, and visual identity as one craft.
-- I build for impact, polish, and permanence.
+I move across front-end, backend, systems, automation, graphics, and experimentation with one principle:
 
-> **Balance in logic. Light in design. Power in execution.**
+> **Everything must be intentional. Everything must feel powerful.**
+
+- I craft code with structure, taste, and precision.
+- I treat animation as atmosphere, not decoration.
+- I value performance, clarity, and visual gravity.
+- I build systems that look premium and behave reliably.
 
 ---
 
@@ -41,18 +45,20 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Front%20End-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20TypeScript-00d9ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Back%20End-PHP%20%7C%20Node.js%20%7C%20Python%20%7C%20Go-7ee787?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20TypeScript-00d9ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Python%20%7C%20Go-7ee787?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Systems-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Assembly-f7c948?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Creative%20Tech-GLSL%20%7C%20WebGL%20%7C%20WASM%20%7C%20Canvas-b56cff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Creative%20Tech-WebGL%20%7C%20GLSL%20%7C%20WASM%20%7C%20Canvas-b56cff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Infra-Git%20%7C%20Linux%20%7C%20Docker%20%7C%20Nginx-ffffff?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
-- Futuristic web experiences with cinematic motion and premium visual systems.
-- Backend engines, APIs, dashboards, routers, and resilient infrastructure.
-- Automation pipelines, scripting systems, and developer tools.
-- Game-adjacent work, modding concepts, and interactive digital worlds.
-- High-density brand identity systems that feel like a command center, not a template.
+### Signature Zones
+- Cinematic web experiences with motion, depth, and visual identity.
+- APIs, routers, dashboards, admin systems, and production-grade backend logic.
+- Automation, scripting, deployment flows, and developer tooling.
+- Game-adjacent systems, modding concepts, and interactive digital worlds.
+- Brand architectures that feel premium, mysterious, and unforgettable.
 
 ---
 
@@ -60,21 +66,33 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Principle-Precision%20Over%20Noise-7ee787?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Principle-Beauty%20With%20Structure-00d9ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Principle-Depth%20With%20Control-f7c948?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Principle-Ship%20Like%20A%20Legend-b56cff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rule-Precision%20Over%20Noise-7ee787?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rule-Beauty%20Must%20Serve%20Structure-00d9ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rule-Ship%20Like%20a%20Legend-f7c948?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rule-Make%20It%20Feel%20Alive-b56cff?style=flat-square&labelColor=0d1117" />
 
 </div>
 
 <blockquote>
   <p>
     I believe strong systems should feel inevitable.<br>
-    I believe design should command attention without begging for it.<br>
-    I believe the best code is both elegant and unforgivingly correct.<br>
+    I believe motion should enhance meaning, not distract from it.<br>
+    I believe the best design is silent until it commands attention.<br>
     I believe balance is not softness — it is mastery.
   </p>
 </blockquote>
+
+---
+
+## 🜁 Cinematic Banner Layer
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="glow" />
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="280" alt="cyber" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="signal" />
+
+</div>
 
 ---
 
@@ -82,7 +100,8 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,python,java,cpp,c,cs,go,rust,dart,kotlin,swift,lua,ruby,scala,elixir,erlang,haskell,ocaml,clojure,solidity,matlab,r,perl,bash,powershell,linux,git,github,docker,nginx,mysql,postgres,sqlite,mongodb,firebase,redis,tailwind,sass,vite,webpack,figma,unity,unreal,blender,arduino,raspberrypi,wasm,graphql,figma" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,svelte,nodejs,php,python,java,cpp,c,cs,go,rust,dart,kotlin,swift,lua,ruby,scala,elixir,erlang,haskell,ocaml,clojure,matlab,r,perl,bash,powershell,linux,docker,git,github,mysql,postgres,sqlite,mongodb,redis,firebase,graphql,tailwind,sass,webpack,vite,figma,unity,unreal,blender,arduino,raspberrypi,wasm" alt="skills-cloud" />
+
 </div>
 
 <br>
@@ -129,20 +148,21 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 <img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
 <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </div>
 
 ---
 
-## 🗃️ Full Language Gallery
+## 🗂️ Full Language Gallery
 
 <details open>
 <summary><b>Frontend / Web</b></summary>
 
-`HTML`, `CSS`, `JavaScript`, `TypeScript`, `JSX`, `TSX`, `React`, `Next.js`, `Vue`, `Nuxt`, `Svelte`, `Angular`, `Tailwind CSS`, `Sass/SCSS`, `Less`, `Stylus`, `EJS`, `Handlebars`, `Pug`, `Liquid`, `Twig`, `Mustache`, `WebAssembly`, `Elm`, `ReasonML`
+`HTML`, `CSS`, `JavaScript`, `TypeScript`, `JSX`, `TSX`, `React`, `Next.js`, `Vue`, `Nuxt`, `Svelte`, `Angular`, `Tailwind CSS`, `Sass`, `SCSS`, `Less`, `Stylus`, `EJS`, `Handlebars`, `Pug`, `Liquid`, `Twig`, `Mustache`, `WebAssembly`, `Elm`, `ReasonML`
 
 </details>
 
@@ -163,14 +183,14 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 <details>
 <summary><b>Game Dev / Graphics / Engine</b></summary>
 
-`C#`, `C++`, `Lua`, `GDScript`, `UnrealScript`, `AngelScript`, `ChaiScript`, `Squirrel`, `Haxe`, `ActionScript`, `ShaderLab`, `GLSL`, `HLSL`, `CG`, `Love2D`, `Unity`, `Unreal Engine`, `Godot`
+`C#`, `C++`, `Lua`, `GDScript`, `UnrealScript`, `AngelScript`, `ChaiScript`, `Squirrel`, `Haxe`, `ActionScript`, `ShaderLab`, `GLSL`, `HLSL`, `CG`, `Unity`, `Unreal Engine`, `Godot`, `Love2D`
 
 </details>
 
 <details>
 <summary><b>Low-Level / Embedded / Hardware</b></summary>
 
-`C`, `C++`, `Rust`, `Assembly`, `Ada`, `Forth`, `Verilog`, `VHDL`, `SystemVerilog`, `Chisel`, `Bluespec`, `SpinalHDL`, `MyHDL`, `Occam`, `Handel-C`, `AVR`, `ARM`, `MIPS`, `RISC-V`
+`C`, `C++`, `Rust`, `Assembly`, `Ada`, `Forth`, `Verilog`, `VHDL`, `SystemVerilog`, `Chisel`, `Bluespec`, `SpinalHDL`, `MyHDL`, `Occam`, `Handel-C`, `AVR`, `ARM`, `MIPS`, `RISC-V`, `Embedded C`
 
 </details>
 
@@ -204,7 +224,7 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 ---
 
-## 📊 GitHub Stats // Signal Readout
+## 📊 Signal Readout
 
 <div align="center">
 
@@ -213,11 +233,15 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=7ee787&fire=f7c948&currStreakLabel=ffffff" alt="Streak Stats" />
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -225,16 +249,25 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 </div>
 
----
-
-## ✨ Signature Quote
+<br>
 
 <div align="center">
 
-> **“I do not build to impress the moment.  
-> I build to leave a shape in the dark that still glows when the screen goes cold.”**  
->  
-> — **Tarfand 89**
+<img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## ✦ Signature Quote
+
+<div align="center">
+
+> **I do not build to be seen.  
+> I build to be remembered.  
+> I do not chase noise.  
+> I engineer presence.  
+> I am Tarfand 89 — and balance is my power.**
 
 </div>
 
@@ -244,15 +277,14 @@ I move between front-end elegance, backend machinery, automation, logic, graphic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117" width="100%" alt="divider"/>
-
-### **Tarfand 89**  
-#### *The God of Light & Balance*
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="Glow"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7ee787" width="100%" alt="separator"/>
 
 <br>
 
-**∎ END OF TRANSMISSION ∎**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&text=Tarfand%2089&fontSize=40&fontAlignY=35&desc=The%20God%20of%20Light%20%26%20Balance%20%E2%8B%86%20END%20OF%20TRANSMISSION&descAlignY=58&animation=fadeIn&fontColor=ffffff&descColor=00d9ff&color=0d1117" width="100%" alt="footer-banner"/>
+
+<br>
+
+**∎ LIGHT IN THE DARK ∎ BALANCE IN THE CODE ∎ POWER IN THE BUILD ∎**
 
 </div>
