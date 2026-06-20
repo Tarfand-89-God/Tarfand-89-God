@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Tarfand%2089&fontSize=58&fontAlignY=34&desc=The%20God%20of%20Light%20%26%20Balance%20%E2%8B%86%20Cyber%20Command%20Center%20%E2%8B%86%20Builder%20of%20Worlds&descAlignY=56&animation=fadeIn&fontColor=ffffff&descColor=7ee787&color=0d1117" width="100%" alt="hero-banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&section=header&text=Tarfand%2089&fontSize=58&fontAlignY=33&desc=The%20God%20of%20Light%20%26%20Balance%20%E2%80%A2%20Cyber%20Command%20Center%20%E2%80%A2%20World-Builder%20%E2%80%A2%20Code%20Architect&descAlignY=57&animation=fadeIn&fontColor=ffffff&descColor=7ee787&color=0d1117" width="100%" alt="hero"/>
 
 <br>
 
 # **Tarfand 89**
 ## *The God of Light & Balance*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=900&color=7EE787&center=true&vCenter=true&width=980&lines=Builder+of+worlds;Architect+of+logic;Keeper+of+the+code;Dark+craft%2C+bright+precision%2C+silent+power;From+web+systems+to+cinematic+interfaces;The+legend+is+in+the+details" alt="typing-animation" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=850&color=7EE787&center=true&vCenter=true&width=1000&lines=Builder+of+worlds;Architect+of+logic;Keeper+of+the+code;Cinematic+systems%2C+clean+execution%2C+silent+power;Dark+design%2C+bright+precision%2C+legendary+delivery;From+frontend+glow+to+backend+gravity" alt="typing" />
 
 <br>
 
@@ -26,18 +28,23 @@
 
 ## 🜂 About Me
 
-I am **Tarfand 89** — a digital force shaped by contrast: calm and dominant, elegant and sharp, technical and cinematic.
+I am **Tarfand 89** — a disciplined creator with a cinematic mind and a systems-first heart.
 
-I do not build ordinary interfaces. I build **command centers**, **identity systems**, **living dashboards**, and **code experiences** that feel like they were engineered by light itself.
+I build things that feel alive: interfaces with atmosphere, tools with intelligence, and codebases that hold their shape under pressure.  
+My work lives where **design, logic, performance, and identity** meet.
 
-I move across front-end, backend, systems, automation, graphics, and experimentation with one principle:
+I do not chase trends.  
+I shape experiences.
 
-> **Everything must be intentional. Everything must feel powerful.**
+I do not write code to fill space.  
+I write code to make a statement.
 
-- I craft code with structure, taste, and precision.
-- I treat animation as atmosphere, not decoration.
-- I value performance, clarity, and visual gravity.
-- I build systems that look premium and behave reliably.
+- I build with precision, but never with emptiness.
+- I design with depth, but never with clutter.
+- I value power, but only when it is controlled.
+- I believe every detail should feel intentional.
+
+> **Light in the structure. Balance in the execution. Gravity in the presence.**
 
 ---
 
@@ -49,16 +56,16 @@ I move across front-end, backend, systems, automation, graphics, and experimenta
 <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Python%20%7C%20Go-7ee787?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Systems-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Assembly-f7c948?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Creative%20Tech-WebGL%20%7C%20GLSL%20%7C%20WASM%20%7C%20Canvas-b56cff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Infra-Git%20%7C%20Linux%20%7C%20Docker%20%7C%20Nginx-ffffff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Infra-Linux%20%7C%20Git%20%7C%20Docker%20%7C%20Nginx-ffffff?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
-### Signature Zones
-- Cinematic web experiences with motion, depth, and visual identity.
-- APIs, routers, dashboards, admin systems, and production-grade backend logic.
-- Automation, scripting, deployment flows, and developer tooling.
-- Game-adjacent systems, modding concepts, and interactive digital worlds.
-- Brand architectures that feel premium, mysterious, and unforgettable.
+### Signature domains
+- Cinematic web systems with motion, contrast, and premium visual hierarchy.
+- Production-ready backends, routers, APIs, dashboards, and admin panels.
+- Scripting, automation, deployment flows, and developer tooling.
+- Game-adjacent engineering, modding concepts, and interactive worlds.
+- Brand identities that feel like command centers, not templates.
 
 ---
 
@@ -76,7 +83,7 @@ I move across front-end, backend, systems, automation, graphics, and experimenta
 <blockquote>
   <p>
     I believe strong systems should feel inevitable.<br>
-    I believe motion should enhance meaning, not distract from it.<br>
+    I believe motion should sharpen meaning, not replace it.<br>
     I believe the best design is silent until it commands attention.<br>
     I believe balance is not softness — it is mastery.
   </p>
@@ -84,13 +91,13 @@ I move across front-end, backend, systems, automation, graphics, and experimenta
 
 ---
 
-## 🜁 Cinematic Banner Layer
+## 🜁 Cinematic Layers
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="glow" />
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="280" alt="cyber" />
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="signal" />
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="glow" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="signal" />
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" alt="core" />
 
 </div>
 
@@ -100,7 +107,7 @@ I move across front-end, backend, systems, automation, graphics, and experimenta
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,svelte,nodejs,php,python,java,cpp,c,cs,go,rust,dart,kotlin,swift,lua,ruby,scala,elixir,erlang,haskell,ocaml,clojure,matlab,r,perl,bash,powershell,linux,docker,git,github,mysql,postgres,sqlite,mongodb,redis,firebase,graphql,tailwind,sass,webpack,vite,figma,unity,unreal,blender,arduino,raspberrypi,wasm" alt="skills-cloud" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,svelte,nodejs,php,python,java,cpp,c,cs,go,rust,dart,kotlin,swift,lua,ruby,scala,elixir,erlang,haskell,ocaml,clojure,matlab,r,perl,bash,powershell,linux,docker,git,github,mysql,postgres,sqlite,mongodb,redis,firebase,graphql,tailwind,sass,webpack,vite,figma,unity,unreal,blender,arduino,raspberrypi,wasm" alt="skills" />
 
 </div>
 
