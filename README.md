@@ -1,26 +1,31 @@
-<!-- =========================================
-     T A R F A N D  8 9  ::  A P E X  V I S I O N
-     GRAPHICAL / ANIMATED / CYBER README
-========================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                          T A R F A N D   8 9                        ║
+║                   THE GOD OF LIGHT & BALANCE                       ║
+║              Architect of Logic • Builder of Worlds                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
 # 👑 Tarfand 89 👑
-### ⚖️ The God of Light & Balance
+## ⚖️ The God of Light & Balance
+### 🌌 Architect of Logic • Builder of Worlds • Keeper of the Code
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="520" alt="Cyber Banner" />
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="560" alt="Cosmic Cyber Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Architect+of+Logic;Builder+of+Worlds;Keeper+of+the+Code;Tarfand+89+%E2%80%A2+Legendary+Mode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&pause=900&color=00FF88&center=true&vCenter=true&width=980&lines=Code+is+not+written%E2%80%94it+is+engineered.;Every+language+is+a+different+dialect+of+logic.;I+build+systems%2C+not+just+screens.;Tarfand+89+%E2%80%A2+Legendary+Mode" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Identity-Tarfand%2089-00FF88?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Style-Cyberpunk-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mode-Legendary-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-Cyberpunk-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Signal-Absolute-FFCC00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spirit-Tarfand%2089-E11D48?style=for-the-badge" />
 </p>
 
 </div>
@@ -29,62 +34,165 @@
 
 ## 🌌 About Me
 
-I am **Tarfand 89** — a creator moving between code, design, systems, and imagination.
+I am **Tarfand 89**.
 
-I do not build ordinary pages.  
-I build **digital atmospheres**.
+Not a single stack.  
+Not a single framework.  
+Not a single box.
 
-I work with:
-- clean architecture
-- cinematic UI
-- scalable systems
-- performance-first logic
-- strong identity and visual storytelling
+I move across ecosystems the way a craftsman moves across materials:  
+with precision, with instinct, with control.
 
-> **Code is not just written.**  
-> **It is composed.**
+I do not treat technology as noise.  
+I treat it as structure.  
+I do not chase trends.  
+I build identity.
+
+> **Some people write code.**  
+> **I compose systems that feel alive.**
+
+I work where:
+- logic meets imagination,
+- precision meets chaos,
+- and beauty meets performance.
+
+I am here to create things that feel:
+**rare, intelligent, cinematic, engineered, and unforgettable.**
 
 ---
 
-## ⚡ Core Focus
+## ⚙️ What I Build
 
-- 🌐 Frontend engineering
-- 🛠️ Backend systems
-- 🎮 Game modding & interactive worlds
-- 🔒 Automation & system logic
-- 🎨 UI/UX with depth and character
-- 🧠 High-precision problem solving
+- Fast, clean, scalable web systems
+- Dark, elegant, cinematic interfaces
+- Game tools, mods, and interactive worlds
+- Automation, scripts, bots, and utility engines
+- Strong backend architecture
+- UI that feels alive, not flat
+- Logic that stays readable under pressure
 
 ---
 
-## 🧬 Languages & Technologies
+## 🧠 Mindset
+
+- clarity over chaos
+- architecture over decoration
+- performance over unnecessary weight
+- precision over empty flex
+- identity over generic output
+
+> **A great system does not try to look powerful.**  
+> **It simply behaves that way.**
+
+---
+
+## 🧬 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,c,cpp,cs,java,go,rust,lua,sql,bash,dart,kotlin,swift,git,linux,docker,nodejs,react,vue,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,c,cpp,cs,java,go,rust,lua,sql,bash,dart,kotlin,swift,react,vue,nodejs,git,linux,docker,figma&theme=dark" />
 </p>
-
-### More than syntax
-I understand the ideas behind:
-- Object-Oriented Programming
-- Functional Programming
-- Procedural Programming
-- Declarative Systems
-- Systems Thinking
-- Game Logic
-- API Architecture
-- DevOps Flow
-- Low-Level Design
 
 ---
 
-## 🚀 What I Build
+## 🌐 Languages & Paradigms
 
-- Modern web applications
-- Fast backend services
-- Admin panels and dashboards
-- Game tools and mods
-- Automation scripts
-- Clean, dark, futuristic interfaces
+### Practical Languages
+HTML • CSS • JavaScript • TypeScript • Python • PHP • SQL • Bash • C • C++ • C# • Java • Go • Rust • Lua • Dart • Kotlin • Swift
+
+### Scripting & Automation
+PowerShell • Perl • Ruby • Groovy • Tcl • AutoHotkey • Batch • Awk • Sed • Fish • Zsh • Shell • AppleScript
+
+### Functional & Declarative
+Haskell • Clojure • Elixir • Erlang • F# • OCaml • Scheme • Common Lisp • Racket • Scala • Idris • Mercury • Oz • Elm • ReasonML • PureScript
+
+### Systems & Low-Level
+Assembly • Ada • Zig • Nim • D • Forth • Verilog • VHDL • SystemVerilog • Chisel • SpinalHDL • MyHDL • Bluespec • Occam • Handel-C • AHIR • Rust • C • C++
+
+### Game Dev & Graphics
+C# • C++ • Lua • GDScript • Haxe • ShaderLab • GLSL • HLSL • UnrealScript • Pawn • Squirrel • AngelScript • ActionScript • Chaiscript
+
+### Data, Science & Computing
+R • Julia • MATLAB • Octave • SAS • SPSS • Stata • Wolfram Language • Fortran • Chapel • IDL • Jupyter • NumPy • pandas • SciPy • TensorFlow • PyTorch • JAX
+
+### Web & Meta Languages
+JSON • YAML • TOML • XML • HTML • CSS • Markdown • GraphQL • JSX • TSX • EJS • Pug • Handlebars • Twig • Mustache • WebAssembly • XPath • XSLT • Graphviz DOT
+
+### Enterprise & Legacy
+COBOL • PL/I • RPG • ABAP • MUMPS • JOVIAL • Coral 66 • Simula • Pascal • Delphi • Modula-2 • Smalltalk • Prolog • Lisp family • Visual Basic • VBScript • FoxPro • APL • J
+
+---
+
+## 🗂️ Full Language Gallery
+
+<details>
+<summary><strong>🟢 Frontend / Web</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,svelte,tailwind,vite,webpack,bootstrap,jquery,nodejs,express,php,laravel,graphql&theme=dark" />
+</p>
+
+HTML • CSS • JavaScript • TypeScript • JSX • TSX • React • Vue • Next.js • Svelte • TailwindCSS • Vite • Webpack • Bootstrap • jQuery • Node.js • Express • PHP • Laravel • GraphQL • EJS • Handlebars • Pug • Twig • JSON • YAML • TOML • XML • Markdown
+
+</details>
+
+<details>
+<summary><strong>🔵 Backend / Systems</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,java,cpp,c,cs,dart,kotlin,swift,bash,linux,docker,git,mongodb,mysql,postgres,redis&theme=dark" />
+</p>
+
+Python • Go • Rust • Java • C++ • C • C# • Dart • Kotlin • Swift • Bash • Linux • Docker • Git • MongoDB • MySQL • PostgreSQL • Redis • SQLite • SQL • PowerShell • Perl • Ruby • Groovy • Tcl • Batch • Awk • Sed
+
+</details>
+
+<details>
+<summary><strong>🟣 Functional / Declarative</strong></summary>
+
+Haskell • Clojure • Elixir • Erlang • F# • OCaml • Scheme • Common Lisp • Racket • Scala • Idris • Mercury • Oz • Prolog • Clean • Curry • Lisp • ML • Standard ML • Elm • ReasonML • PureScript
+
+</details>
+
+<details>
+<summary><strong>🟠 Game Dev / Graphics / Engine</strong></summary>
+
+C# • C++ • Lua • GDScript • Haxe • ShaderLab • GLSL • HLSL • UnrealScript • Pawn • Squirrel • AngelScript • ActionScript • Chaiscript • Love2D • Unity • Unreal Engine • Godot • Blender
+
+</details>
+
+<details>
+<summary><strong>🔴 Low-Level / Embedded / Hardware</strong></summary>
+
+Assembly • Ada • Zig • Nim • D • Forth • Verilog • VHDL • SystemVerilog • Chisel • SpinalHDL • MyHDL • Bluespec • Occam • Handel-C • AHIR • Rust • C • C++
+
+</details>
+
+<details>
+<summary><strong>⚫ Data / Science / Research</strong></summary>
+
+R • Julia • MATLAB • Octave • SAS • SPSS • Stata • Wolfram Language • Fortran • Chapel • IDL • Jupyter • NumPy • pandas • SciPy • TensorFlow • PyTorch • JAX
+
+</details>
+
+<details>
+<summary><strong>🟡 Legacy / Enterprise / Special</strong></summary>
+
+COBOL • PL/I • RPG • ABAP • MUMPS • JOVIAL • Coral 66 • Simula • Pascal • Delphi • Modula-2 • Objective-C • VBScript • Visual Basic • FoxPro • APL • J • Smalltalk • Ada
+
+</details>
+
+---
+
+## 🚀 What I Create
+
+- modern web applications
+- fast backend services
+- admin panels and dashboards
+- game tools and mods
+- automation scripts
+- dark, futuristic interfaces
+- clean technical systems
+- products with identity
 
 ---
 
@@ -96,30 +204,57 @@ I like things that feel:
 - technical, but artistic
 - fast, but stable
 - rare, but readable
+- cinematic, but real
 
 > **A strong system feels like it was meant to exist.**
+
+---
+
+## 🧭 Principles
+
+I believe in:
+- clean code over noisy code
+- architecture over chaos
+- performance over decoration
+- depth over imitation
+- identity over generic output
+
+> **Beauty without structure is noise.**  
+> **Structure without beauty is cold.**  
+> **But when both align, the result becomes legendary.**
 
 ---
 
 ## 📊 GitHub Presence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true" height="190" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarfand-89-God&theme=tokyo-night" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tarfand-89-God&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🔥 Signature
 
-> **I do not chase trends.**  
-> **I build identity.**  
-> **I do not follow systems.**  
-> **I engineer them.**
+> **I do not belong to one language.**  
+> **Languages belong to the architecture I choose.**
+
+> **I do not chase tools.**  
+> **I choose the right weapon for the right battlefield.**
+
+> **I do not build to look active.**  
+> **I build to feel inevitable.**
+
+> **I do not want to be ordinary.**  
+> **I want to be unmistakable.**
 
 ---
 
