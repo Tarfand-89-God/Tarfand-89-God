@@ -1,26 +1,26 @@
-<!--
-╔════════════════════════════════════════════════════════════╗
-║                     T A R F A N D   8 9                  ║
-║                THE GOD OF LIGHT & BALANCE                ║
-╚════════════════════════════════════════════════════════════╝
--->
+<!-- =========================================
+     T A R F A N D  8 9  ::  A P E X  V I S I O N
+     GRAPHICAL / ANIMATED / CYBER README
+========================================= -->
 
 <div align="center">
 
 # 👑 Tarfand 89 👑
-
-### ⚖️ The God of Light & Balance  
-### 🌌 Architect of Logic • Builder of Worlds • Keeper of the Code
+### ⚖️ The God of Light & Balance
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="460" alt="Cosmic Banner" />
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="520" alt="Cyber Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Universal-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Style-Cyberpunk-00ff88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Balance-Absolute-7f5af0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Identity-Tarfand%2089-ffcc00?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Architect+of+Logic;Builder+of+Worlds;Keeper+of+the+Code;Tarfand+89+%E2%80%A2+Legendary+Mode" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Identity-Tarfand%2089-00FF88?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Style-Cyberpunk-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Legendary-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Signal-Absolute-FFCC00?style=for-the-badge" />
 </p>
 
 </div>
@@ -29,179 +29,105 @@
 
 ## 🌌 About Me
 
-I am **Tarfand 89**.
+I am **Tarfand 89** — a creator moving between code, design, systems, and imagination.
 
-Not just a developer.  
-Not just a designer.  
-Not just a coder.
+I do not build ordinary pages.  
+I build **digital atmospheres**.
 
-I am the kind of mind that sees **systems as poetry**,  
-**syntax as architecture**,  
-and **technology as a living universe**.
+I work with:
+- clean architecture
+- cinematic UI
+- scalable systems
+- performance-first logic
+- strong identity and visual storytelling
 
-I do not belong to one language.  
-I move across them.  
-I listen to their logic, learn their rhythm, and shape them into something greater.
-
-> **Some people write code.**  
-> **I build worlds that code can live inside.**
-
-I work where:
-- logic meets imagination,
-- precision meets chaos,
-- and beauty meets performance.
-
-I am here to create things that feel:
-**rare, intelligent, cinematic, engineered, and unforgettable.**
+> **Code is not just written.**  
+> **It is composed.**
 
 ---
 
-## ⚙️ What I Do
+## ⚡ Core Focus
 
-- 🧠 Design systems that are fast, clean, and scalable
-- 🌐 Build modern web experiences with strong identity
-- 🎮 Explore game development, mods, and interactive worlds
-- 🛠️ Automate workflows and engineer smart tools
-- 🔒 Think deeply about structure, reliability, and control
-- 🎨 Shape interfaces with style, depth, and meaning
-
----
-
-## 🧬 The Way I Work
-
-I do not chase trends.  
-I study foundations.
-
-I do not fear complexity.  
-I organize it.
-
-I do not worship one framework.  
-I choose the right weapon for the right battlefield.
-
-> **Every language is a dialect.**  
-> **Every framework is a tool.**  
-> **Every architecture is a decision.**  
-> **And every decision leaves a signature.**
+- 🌐 Frontend engineering
+- 🛠️ Backend systems
+- 🎮 Game modding & interactive worlds
+- 🔒 Automation & system logic
+- 🎨 UI/UX with depth and character
+- 🧠 High-precision problem solving
 
 ---
 
-## 🌐 Languages & Technologies
+## 🧬 Languages & Technologies
 
-### Core Languages
-**HTML • CSS • JavaScript • TypeScript • Python • PHP • SQL • Bash • C • C++ • C# • Java • Go • Rust • Lua**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,c,cpp,cs,java,go,rust,lua,sql,bash,dart,kotlin,swift,git,linux,docker,nodejs,react,vue,figma&theme=dark" />
+</p>
 
-### Also Fluent In
-**PowerShell • Dart • Kotlin • Swift • Ruby • Perl • JSON • YAML • Markdown • GraphQL • Assembly • MATLAB**
-
-### Concepts I Move Through Easily
+### More than syntax
+I understand the ideas behind:
 - Object-Oriented Programming
 - Functional Programming
 - Procedural Programming
 - Declarative Systems
-- Low-Level Engineering
-- Scripting & Automation
-- Web Architecture
-- Game Development
-- Backend Design
-- UI/UX Craft
-- DevOps Thinking
+- Systems Thinking
+- Game Logic
+- API Architecture
+- DevOps Flow
+- Low-Level Design
 
 ---
 
-## 🧠 Mindset
+## 🚀 What I Build
 
-I believe in:
-- clean code over noisy code
-- architecture over chaos
-- performance over unnecessary weight
-- precision over empty flex
-- identity over imitation
-
-> **A great system is not just working.**  
-> **It feels inevitable.**
+- Modern web applications
+- Fast backend services
+- Admin panels and dashboards
+- Game tools and mods
+- Automation scripts
+- Clean, dark, futuristic interfaces
 
 ---
 
-## 🚀 My Signature
+## 🌑 My Style
 
-I like projects that feel:
-- dark but elegant
-- powerful but readable
-- technical but artistic
-- futuristic but human
-- minimal but legendary
+I like things that feel:
+- dark, but elegant
+- minimal, but powerful
+- technical, but artistic
+- fast, but stable
+- rare, but readable
 
-I build with the mindset of someone who wants the result to feel like:
-**the final version, not a draft**.
-
----
-
-## 🛠️ Tools I Use
-
-- Git & GitHub
-- Linux / Windows
-- VS Code
-- Node.js
-- PHP
-- Python
-- Docker
-- Databases
-- API systems
-- Design tools
-- Game engines
-- Terminal workflows
+> **A strong system feels like it was meant to exist.**
 
 ---
 
-## 🔥 What Makes This Profile Mine
+## 📊 GitHub Presence
 
-This is not a random developer page.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-This is a **signature**.
-
-A profile with:
-- a clear voice
-- a strong visual identity
-- a cinematic tone
-- a technical soul
-- and a name that stays in memory
-
-> **Tarfand 89 is not just a username.**  
-> **It is a mark.**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarfand-89-God&theme=tokyo-night" />
+</p>
 
 ---
 
-## ✨ Philosophy
+## 🔥 Signature
 
-> **Light without balance is noise.**  
-> **Power without direction is waste.**  
-> **Code without identity is forgettable.**  
-> **But when logic, art, and discipline align...**  
-> **you get something legendary.**
-
----
-
-## 📌 Current Focus
-
-- Building stronger systems
-- Sharpening my architecture skills
-- Creating cleaner, faster interfaces
-- Exploring new technologies
-- Turning ideas into something real
+> **I do not chase trends.**  
+> **I build identity.**  
+> **I do not follow systems.**  
+> **I engineer them.**
 
 ---
 
-## 🌙 Final Words
-
-I do not want to be ordinary.  
-I want to be remembered.
-
-Not because I spoke the loudest,  
-but because I built something that felt different.
+## 👑 Final Mark
 
 <div align="center">
 
-### 👑 Tarfand 89  
-### ⚖️ The God of Light & Balance
+### Tarfand 89
+### The God of Light & Balance
 
 </div>
