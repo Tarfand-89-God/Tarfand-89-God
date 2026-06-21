@@ -241,23 +241,108 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-## 📊 Stats & Power Level
+# ⚡ CYBER COMMAND CENTER
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" />
-</p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1800&color=7EE787&center=true&vCenter=true&width=950&lines=SYSTEM+STATUS+%E2%96%B6+ONLINE;INITIALIZING+COMMAND+CENTER...;LOADING+INTELLIGENCE+DATABASE...;POWER+LEVEL+%E2%96%B6+MAXIMUM;WELCOME+TO+THE+KINGDOM+OF+LIGHT+%26+BALANCE" />
+
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFD700" alt="Top Languages" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
 </p>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFD700&icon_color=7EE787&text_color=FFFFFF&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF&langs_count=20"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=00000000&stroke=00D9FF&ring=FFD700&fire=FFD700&currStreakLabel=7EE787"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tarfand-89-God&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7EE787&line=00D9FF&point=FFD700&area=true&radius=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarfand-89-God&theme=tokyonight" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarfand-89-God&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarfand-89-God&theme=tokyonight" width="49%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarfand-89-God&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarfand-89-God&theme=tokyonight&utcOffset=3" width="49%"/>
+
+</div>
 
 ---
 
-## 🏆 Achievements of Light
+# 👑 HALL OF LEGENDS
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=18&margin-h=18"/>
+
+</div>
+
+---
+
+# 📡 LIVE SIGNAL
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tarfand-89-God&style=for-the-badge&color=7EE787"/>
+
+<img src="https://img.shields.io/github/followers/Tarfand-89-God?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/Tarfand-89-God?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7EE787?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/POWER-100%25-FFD700?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/CORE-STABLE-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7EE787,50:00D9FF,100:FFD700"/>
+
 </p>
 
 ---
