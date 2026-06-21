@@ -341,7 +341,7 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7EE787,50:00D9FF,100:FFD700"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7EE787,50:00D9FF,100:FFD700"/>](https://github-profile-trophy-orcin-eta.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)
 
 </p>
 
