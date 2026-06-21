@@ -45,329 +45,260 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ## 🌐 Programming Languages & Technologies
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/html-5.png"/><br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/css3.png"/><br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/javascript.png"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/typescript.png"/><br/>TypeScript
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/python.png"/><br/>Python
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br/>Java
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br/>C++
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/c-programming.png"/><br/>C
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=900&color=7EE787&center=true&vCenter=true&width=980&lines=Language+Matrix+%E2%80%A2+Full+Stack+Arsenal+%E2%80%A2+Legendary+Coverage;Every+stack+organized+with+clarity;From+web+glow+to+hardware+gravity" alt="Language Matrix" />
+</p>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br/>C#
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/golang.png"/><br/>Go
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/rust-programming-language.png"/><br/>Rust
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/r-project.png"/><br/>R
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/swift.png"/><br/>Swift
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/kotlin.png"/><br/>Kotlin
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/dart.png"/><br/>Dart
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/lua-language.png"/><br/>Lua
-    </td>
-  </tr>
+<p align="center">
+  <svg width="100%" height="18" viewBox="0 0 1200 18" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon divider">
+    <defs>
+      <linearGradient id="lg" x1="0" x2="1">
+        <stop offset="0%" stop-color="#7ee787"/>
+        <stop offset="50%" stop-color="#00d9ff"/>
+        <stop offset="100%" stop-color="#f7c948"/>
+      </linearGradient>
+    </defs>
+    <line x1="0" y1="9" x2="1200" y2="9" stroke="url(#lg)" stroke-width="2" stroke-dasharray="10 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="200" dur="7s" repeatCount="indefinite"/>
+    </line>
+  </svg>
+</p>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/haskell.png"/><br/>Haskell
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/scala.png"/><br/>Scala
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/solidity.png"/><br/>Solidity
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/sql.png"/><br/>SQL
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/json.png"/><br/>JSON
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/markdown.png"/><br/>Markdown
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/graphql.png"/><br/>GraphQL
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/yaml.png"/><br/>YAML
-    </td>
-  </tr>
+<table align="center" width="100%" cellspacing="0" cellpadding="10">
+  <thead>
+    <tr>
+      <th align="left">Sector</th>
+      <th align="left">Core Signal</th>
+      <th align="left">Full Gallery</th>
+    </tr>
+  </thead>
+  <tbody>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/bash.png"/><br/>Bash
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/powershell.png"/><br/>PowerShell
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/perl.png"/><br/>Perl
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/matlab.png"/><br/>MATLAB
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/blender-3d.png"/><br/>Blender
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/php.png"/><br/>PHP
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/ruby-programming-language.png"/><br/>Ruby
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/console.png"/><br/>Assembly
-    </td>
-  </tr>
+    <tr>
+      <td><strong>Core Stack</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+        <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+      </td>
+      <td>
+        <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Python</code> · <code>Java</code> · <code>C++</code> · <code>C</code> · <code>C#</code> · <code>Go</code> · <code>Rust</code> · <code>R</code> · <code>Swift</code> · <code>Kotlin</code> · <code>Dart</code> · <code>Lua</code> · <code>Haskell</code> · <code>Scala</code> · <code>Solidity</code> · <code>SQL</code> · <code>JSON</code> · <code>Markdown</code> · <code>GraphQL</code> · <code>YAML</code> · <code>Bash</code> · <code>PowerShell</code> · <code>Perl</code> · <code>MATLAB</code> · <code>Blender</code> · <code>PHP</code> · <code>Ruby</code> · <code>Assembly</code> · <code>COBOL</code> · <code>Fortran</code>
+      </td>
+    </tr>
 
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/cobol.png"/><br/>COBOL
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/fortran.png"/><br/>Fortran
-    </td>
-  </tr>
+    <tr>
+      <td><strong>Frontend / Web</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Vue-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Svelte-0d1117?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+      </td>
+      <td>
+        <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>JSX</code> · <code>TSX</code> · <code>React</code> · <code>Next.js</code> · <code>Vue</code> · <code>Nuxt</code> · <code>Svelte</code> · <code>Angular</code> · <code>Tailwind CSS</code> · <code>Sass</code> · <code>SCSS</code> · <code>Less</code> · <code>Stylus</code> · <code>EJS</code> · <code>Handlebars</code> · <code>Pug</code> · <code>Liquid</code> · <code>Twig</code> · <code>Mustache</code> · <code>Elm</code> · <code>ReasonML</code> · <code>WebAssembly</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Backend / Systems</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+        <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>PHP</code> · <code>Node.js</code> · <code>Python</code> · <code>Java</code> · <code>C</code> · <code>C++</code> · <code>C#</code> · <code>Go</code> · <code>Rust</code> · <code>D</code> · <code>Zig</code> · <code>Nim</code> · <code>Crystal</code> · <code>Odin</code> · <code>V</code> · <code>Swift</code> · <code>Kotlin</code> · <code>Scala</code> · <code>Ruby</code> · <code>Lua</code> · <code>Perl</code> · <code>Elixir</code> · <code>Erlang</code> · <code>Haskell</code> · <code>OCaml</code> · <code>F#</code> · <code>Clojure</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Functional / Declarative</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Haskell-0d1117?style=for-the-badge&logo=haskell&logoColor=5E5086" />
+        <img src="https://img.shields.io/badge/OCaml-0d1117?style=for-the-badge&logo=ocaml&logoColor=EC6813" />
+        <img src="https://img.shields.io/badge/Clojure-0d1117?style=for-the-badge&logo=clojure&logoColor=5881D8" />
+        <img src="https://img.shields.io/badge/Elixir-0d1117?style=for-the-badge&logo=elixir&logoColor=4B275F" />
+      </td>
+      <td>
+        <code>Clojure</code> · <code>Elixir</code> · <code>Erlang</code> · <code>F#</code> · <code>Haskell</code> · <code>Lisp</code> (<code>Common Lisp</code>, <code>Scheme</code>, <code>Emacs Lisp</code>) · <code>ML</code> (<code>Standard ML</code>, <code>Moscow ML</code>) · <code>OCaml</code> · <code>Racket</code> · <code>Scala</code> · <code>Clean</code> · <code>Curry</code> · <code>Idris</code> · <code>Mercury</code> · <code>Oz</code> · <code>Prolog</code> · <code>Datalog</code> · <code>Factor</code> · <code>Smalltalk</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Game Dev / Graphics / Engine</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120" />
+        <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+        <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+        <img src="https://img.shields.io/badge/GLSL-0d1117?style=for-the-badge&logoColor=00d9ff" />
+      </td>
+      <td>
+        <code>C#</code> · <code>C++</code> · <code>Lua</code> · <code>GDScript</code> · <code>UnrealScript</code> · <code>AngelScript</code> · <code>ChaiScript</code> · <code>Squirrel</code> · <code>Haxe</code> · <code>ActionScript</code> · <code>ShaderLab</code> · <code>GLSL</code> · <code>HLSL</code> · <code>CG</code> · <code>Unity</code> · <code>Unreal Engine</code> · <code>Godot</code> · <code>Love2D</code> · <code>Pawn</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Low-Level / Embedded / Hardware</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+        <img src="https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Verilog-0d1117?style=for-the-badge&logoColor=00d9ff" />
+      </td>
+      <td>
+        <code>Ada</code> · <code>Assembly</code> (<code>x86</code>, <code>ARM</code>, <code>MIPS</code>, <code>RISC-V</code>, <code>AVR</code>) · <code>C</code> · <code>Forth</code> · <code>Rust</code> · <code>Verilog</code> · <code>VHDL</code> · <code>SystemVerilog</code> · <code>Chisel</code> · <code>Bluespec</code> · <code>SpinalHDL</code> · <code>MyHDL</code> · <code>AHIR</code> · <code>Handel-C</code> · <code>Occam</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Data / Science / Research</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3" />
+        <img src="https://img.shields.io/badge/Julia-0d1117?style=for-the-badge&logo=julia&logoColor=9558B2" />
+        <img src="https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logoColor=E16737" />
+      </td>
+      <td>
+        <code>Julia</code> · <code>MATLAB</code> · <code>R</code> · <code>SAS</code> · <code>SPSS</code> · <code>Stata</code> · <code>Chapel</code> · <code>Fortran</code> · <code>IDL</code> · <code>Octave</code> · <code>S-Plus</code> · <code>Wolfram Language</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Scripting / Automation</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+        <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+        <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+      </td>
+      <td>
+        <code>AppleScript</code> · <code>AutoHotkey</code> · <code>Fish</code> · <code>Groovy</code> · <code>PowerShell</code> · <code>Ruby</code> · <code>Tcl/Tk</code> · <code>VBScript</code> · <code>Zsh</code> · <code>Awk</code> · <code>Batch</code> · <code>Expect</code> · <code>Lua</code> · <code>Perl</code> · <code>Python</code> · <code>Rexx</code> · <code>Sed</code> · <code>Shell</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Markup / Query / Config</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+        <img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/YAML-0d1117?style=for-the-badge&logo=yaml&logoColor=CB171E" />
+        <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+      </td>
+      <td>
+        <code>CSS</code> · <code>GraphQL</code> · <code>HTML</code> · <code>JSON</code> · <code>YAML</code> · <code>TOML</code> · <code>INI</code> · <code>LaTeX</code> · <code>Markdown</code> · <code>SQL</code> · <code>PL/SQL</code> · <code>T-SQL</code> · <code>PostgreSQL PL/pgSQL</code> · <code>Makefile</code> · <code>CMake</code> · <code>Meson</code> · <code>Ninja</code> · <code>SCons</code> · <code>Waf</code> · <code>XSLT</code> · <code>XPath</code> · <code>DTD</code> · <code>RELAX NG</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Systems & Concurrent</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+        <img src="https://img.shields.io/badge/Zig-0d1117?style=for-the-badge&logoColor=00d9ff" />
+        <img src="https://img.shields.io/badge/Nim-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Crystal-0d1117?style=for-the-badge&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>D</code> · <code>Go</code> · <code>Pony</code> · <code>Zig</code> · <code>Crystal</code> · <code>Nim</code> · <code>V</code> · <code>Odin</code> · <code>Carbon</code> · <code>Circle</code> · <code>Redox</code> · <code>ATS</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Mobile / Cross-Platform</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=F05138" />
+        <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
+        <img src="https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </td>
+      <td>
+        <code>Kotlin</code> · <code>Swift</code> · <code>Dart</code> · <code>Java</code> · <code>Objective-C</code> · <code>React Native</code> · <code>Xamarin</code> · <code>Cordova/PhoneGap</code> · <code>Ionic</code> · <code>NativeScript</code> · <code>Uno Platform</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>AI / ML / Specialized</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+        <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+        <img src="https://img.shields.io/badge/JAX-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/ONNX-0d1117?style=for-the-badge&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>TensorFlow</code> · <code>PyTorch</code> · <code>JAX</code> · <code>Chapel</code> · <code>Halide</code> · <code>CuPy</code> · <code>MXNet</code> · <code>ONNX</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Security / Blockchain / Crypto</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Move-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Cairo-0d1117?style=for-the-badge&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>Solidity</code> · <code>Vyper</code> · <code>Rust</code> · <code>Move</code> · <code>Cairo</code> · <code>Clarity</code> · <code>Michelson</code> · <code>Scilla</code> · <code>Yul</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Enterprise / Legacy</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/COBOL-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/ABAP-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/PL%2FI-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/RPG-0d1117?style=for-the-badge&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>COBOL</code> · <code>PL/I</code> · <code>RPG</code> · <code>ABAP</code> · <code>MUMPS</code> · <code>JOVIAL</code> · <code>Coral 66</code> · <code>Simula</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>International / Cultural</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/APL-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/J-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/K-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Q-0d1117?style=for-the-badge&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>APL</code> · <code>J</code> · <code>K</code> · <code>Q</code> · <code>Smalltalk</code> · <code>Self</code> · <code>Factor</code>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Esoteric / Educational / Fun</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Befunge-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Brainfuck-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/JSFuck-0d1117?style=for-the-badge&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Whitespace-0d1117?style=for-the-badge&logoColor=ffffff" />
+      </td>
+      <td>
+        <code>Befunge</code> · <code>Brainfuck</code> · <code>INTERCAL</code> · <code>LOLCODE</code> · <code>Malbolge</code> · <code>Shakespeare</code> · <code>Whitespace</code> · <code>Piet</code> · <code>Chef</code> · <code>Rockstar</code> · <code>Velato</code> · <code>JSFuck</code> · <code>Ook!</code> · <code>Binary</code> · <code>Unlambda</code>
+      </td>
+    </tr>
+
+  </tbody>
 </table>
 
-
-
-#### 🧠 Functional & Declarative Languages
-- Clojure (JVM-based Lisp)
-- Elixir (Erlang VM, concurrent)
-- Erlang (telecom-grade concurrency)
-- F# (.NET functional)
-- Haskell (pure functional)
-- Lisp (Common Lisp, Scheme, Emacs Lisp)
-- ML (Standard ML, Moscow ML)
-- OCaml (practical functional)
-- Racket (extensible Lisp)
-- Scala (object-functional hybrid)
-- Clean (pure functional)
-- Curry (functional logic)
-- Idris (dependently typed)
-- Mercury (logical functional)
-- Oz (multi-paradigm declarative)
-
-#### 📊 Data Science, Stats & Scientific Computing
-- Julia (high-performance numerical)
-- MATLAB (matrix lab, engineering)
-- R (statistical computing)
-- SAS (analytics suite)
-- SPSS (statistical package)
-- Stata (econometrics)
-- Chapel (parallel scientific)
-- Fortran (legacy scientific)
-- IDL (interactive data lang)
-- Octave (MATLAB clone)
-- S-Plus (R predecessor)
-- Wolfram Language (Mathematica)
-
-#### 🐍 Scripting & Automation
-- AppleScript (macOS automation)
-- AutoHotkey (Windows scripting)
-- Fish (user-friendly shell)
-- Groovy (JVM scripting)
-- PowerShell (Microsoft automation)
-- Ruby (elegant scripting)
-- Tcl/Tk (tool command lang)
-- VBScript (Visual Basic scripting)
-- Zsh (advanced shell)
-- Awk (text processing)
-- Batch (.bat files)
-- Expect (Tcl extension for automation)
-- Lua (lightweight scripting)
-- Perl (text munging king)
-- Python (scripting beast)
-- Rexx (IBM scripting)
-- Sed (stream editor)
-- Shell (Bourne, Csh, Ksh)
-
-#### 🎮 Game Development & Engines
-- C# (Unity engine)
-- C++ (Unreal, Godot C++)
-- GDScript (Godot native)
-- Lua (Love2D, Roblox, Garry's Mod)
-- Pawn (SA-MP, AMX Mod X, SourceMod)
-- UnrealScript (legacy Unreal)
-- AngelScript (generic scripting)
-- Chaiscript (header-only embeddable)
-- Squirrel (lightweight VM)
-- Haxe (cross-platform)
-- ActionScript (Flash/Adobe Animate)
-- ShaderLab (Unity shaders)
-- GLSL (OpenGL shaders)
-- HLSL (DirectX shaders)
-- CG (NVIDIA shaders)
-
-#### 🧬 Low-Level, Embedded & Hardware
-- Ada (safety-critical)
-- Assembly (x86, ARM, MIPS, RISC-V, AVR)
-- C (embedded systems)
-- Forth (stack-based embedded)
-- Rust (safe systems)
-- Verilog (hardware description)
-- VHDL (VHSIC hardware)
-- SystemVerilog (advanced HDL)
-- Chisel (Scala-based HDL)
-- Bluespec (hardware synthesis)
-- SpinalHDL (Scala HDL)
-- MyHDL (Python HDL)
-- AHIR (VHDL subset)
-- Handel-C (C for FPGAs)
-- Occam (parallel channels)
-
-#### 📜 Domain-Specific: Markup, Query & Config
-- CSS (styling)
-- GraphQL (API query)
-- HTML (hypertext markup)
-- JSON/YAML/TOML/INI (config formats)
-- LaTeX (TeX for docs)
-- Markdown (light markup)
-- SQL (relational query) + variants (PL/SQL, T-SQL, PostgreSQL PL/pgSQL)
-- Makefile (GNU Make)
-- CMake (cross-platform build)
-- Meson (build system)
-- Ninja (build executor)
-- SCons (Python-based build)
-- Waf (Python build)
-- XSLT (XML transform)
-- XPath (XML query)
-- DTD (document type def)
-- RELAX NG (schema lang)
-
-#### 🏗️ Systems & Concurrent Languages
-- D (systems with GC)
-- Go (simple concurrency)
-- Pony (actor-model safe)
-- Zig (low-level C alternative)
-- Crystal (Ruby-like compiled)
-- Nim (Pythonic systems)
-- V (simple, fast)
-- Odin (data-oriented)
-- Carbon (C++ successor)
-- Circle (C++ bare metal)
-- Redox (Rust OS lang)
-- ATS (verified programming)
-
-#### 🌐 Web & Frontend-Specific
-- JSX/TSX (React syntax)
-- SASS/SCSS/LESS/Stylus (CSS preprocessors)
-- Vue SFC (single-file components)
-- Handlebars (templating)
-- Pug/Jade (HTML templating)
-- EJS (embedded JS)
-- Liquid (Shopify templating)
-- Twig (PHP templating)
-- Mustache (logic-less)
-- WebAssembly (Wasm, low-level web)
-- Elm (frontend functional)
-- ReasonML (OCaml for JS)
-
-#### 📱 Mobile & Cross-Platform Development
-- Kotlin (Android native)
-- Swift (iOS/macOS)
-- Dart (Flutter)
-- Java (Android legacy)
-- Objective-C (iOS legacy)
-- React Native (JS for mobile)
-- Xamarin (C# cross-platform)
-- Cordova/PhoneGap (hybrid web)
-- Ionic (web tech mobile)
-- NativeScript (JS/TS native)
-- Uno Platform (.NET cross-platform)
-
-#### 🤖 AI/ML & Specialized Computing
-- TensorFlow (Python/Kotlin/Swift)
-- PyTorch (Python dynamic graphs)
-- JAX (NumPy + autodiff)
-- Chapel (parallel ML)
-- Halide (image processing)
-- CuPy (GPU NumPy)
-- MXNet (scalable DL)
-- ONNX (interoperable models)
-
-#### 🔒 Security, Blockchain & Crypto
-- Solidity (Ethereum contracts)
-- Vyper (secure Pythonic contracts)
-- Rust (Solana, Polkadot)
-- Move (Aptos, Sui blockchain)
-- Cairo (StarkNet)
-- Clarity (Stacks blockchain)
-- Michelson (Tezos)
-- Scilla (Zilliqa)
-- Yul (Ethereum intermediate)
-
-#### 🏢 Enterprise & Legacy Languages
-- COBOL (business mainframes)
-- PL/I (IBM enterprise)
-- RPG (IBM reports)
-- ABAP (SAP)
-- MUMPS (medical databases)
-- JOVIAL (military systems)
-- Coral 66 (defense)
-- Simula (object-oriented pioneer)
-
-#### 🌍 International & Cultural Languages
-- APL (array programming)
-- J (APL successor)
-- K (vector lang)
-- Q (kdb+ query)
-- Smalltalk (pure OO)
-- Self (prototype-based)
-- Factor (stack-oriented)
-
-#### 🧱 Esoteric, Educational & Fun Languages
-- Befunge (2D tape)
-- Brainfuck (minimalist)
-- COBOL (yes, legacy fun)
-- INTERCAL (compiler complainer)
-- LOLCODE (meme lang)
-- Malbolge (obfuscated hell)
-- Shakespeare (dramatic)
-- Whitespace (invisible code)
-- Piet (image-based)
-- Chef (recipe code)
-- Rockstar (lyrical)
-- Velato (MIDI music)
-- JSFuck (JS with []()!+)
-- Ook! ( orangutan code)
-- Binary (pure 01s)
-- Unlambda (functional lambda calculus)
+<p align="center">
+  <svg width="100%" height="18" viewBox="0 0 1200 18" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon divider">
+    <defs>
+      <linearGradient id="lg2" x1="0" x2="1">
+        <stop offset="0%" stop-color="#f7c948"/>
+        <stop offset="50%" stop-color="#00d9ff"/>
+        <stop offset="100%" stop-color="#7ee787"/>
+      </linearGradient>
+    </defs>
+    <line x1="0" y1="9" x2="1200" y2="9" stroke="url(#lg2)" stroke-width="2" stroke-dasharray="10 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="7s" repeatCount="indefinite"/>
+    </line>
+  </svg>
+</p>
 
 ---
 
