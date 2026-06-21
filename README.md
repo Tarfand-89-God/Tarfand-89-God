@@ -1,381 +1,438 @@
-<div align="center">
+<!-- 🌌 THE LEGENDARY PROFILE README — BY 👑 ㄒ卂尺千卂几ᗪ ❽𝟡 👑 -->
 
-<svg width="100%" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tarfand 89 — The God of Light & Balance">
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#04060f"/>
-      <stop offset="52%" stop-color="#0a1022"/>
-      <stop offset="100%" stop-color="#12081f"/>
-    </linearGradient>
-
-    <linearGradient id="neon" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7ee787"/>
-      <stop offset="45%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#f7c948"/>
-    </linearGradient>
-
-    <linearGradient id="violet" x1="0" x2="1">
-      <stop offset="0%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#b56cff"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
-      <path d="M 60 0 H 0 V 60" fill="none" stroke="#7ee787" stroke-opacity="0.08" stroke-width="1"/>
-    </pattern>
-
-    <radialGradient id="halo" cx="50%" cy="46%" r="55%">
-      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.15"/>
-      <stop offset="50%" stop-color="#7ee787" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1600" height="520" rx="30" fill="url(#bg)"/>
-  <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
-  <rect width="1600" height="520" rx="30" fill="url(#halo)"/>
-
-  <path d="M 120 108 H 380" stroke="url(#neon)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
-  <path d="M 1220 108 H 1480" stroke="url(#neon)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
-  <path d="M 120 410 H 380" stroke="url(#violet)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
-  <path d="M 1220 410 H 1480" stroke="url(#violet)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
-
-  <circle cx="210" cy="148" r="42" fill="none" stroke="#7ee787" stroke-width="2" opacity="0.7"/>
-  <circle cx="1390" cy="372" r="42" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.7"/>
-  <circle cx="240" cy="372" r="10" fill="#b56cff" filter="url(#glow)"/>
-  <circle cx="1360" cy="148" r="10" fill="#f7c948" filter="url(#glow)"/>
-
-  <text x="800" y="176" text-anchor="middle" fill="#ffffff" font-size="80" font-family="Segoe UI, Arial, sans-serif" font-weight="900" letter-spacing="8">
-    TARFAND 89
-  </text>
-
-  <text x="800" y="236" text-anchor="middle" fill="#7ee787" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="5">
-    THE GOD OF LIGHT & BALANCE
-  </text>
-
-  <text x="800" y="284" text-anchor="middle" fill="#cbd5e1" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2.2">
-    CYBER COMMAND CENTER  //  BUILDER OF WORLDS  //  ARCHITECT OF LOGIC  //  KEEPER OF THE CODE
-  </text>
-
-  <text x="800" y="330" text-anchor="middle" fill="#00d9ff" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="3.2">
-    SIGNAL / STRUCTURE / GRAVITY / PRECISION / ELEGANCE / CONTROL
-  </text>
-
-  <path d="M 260 94 C 420 20, 1180 20, 1340 94" fill="none" stroke="#00d9ff" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="8 8">
-    <animate attributeName="stroke-dashoffset" from="0" to="64" dur="8s" repeatCount="indefinite"/>
-  </path>
-</svg>
-
-<br>
-
-<h1 align="center">Tarfand 89</h1>
-<h3 align="center">The God of Light & Balance</h3>
+<h1 align="center">👑 ㄒ卂尺千卂几ᗪ ❽𝟡 👑</h1>
+<h3 align="center">⚡ The God of Light and Balance ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=850&color=7EE787&center=true&vCenter=true&width=980&lines=Builder+of+worlds;Architect+of+logic;Keeper+of+the+code;Dark+craft%2C+bright+precision%2C+silent+power;From+frontend+glow+to+backend+gravity;A+signature%2C+not+a+profile" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="500" alt="Cosmic Banner">
 </p>
+
+---
+
+## 🌌 About Me
+
+Hi, I'm 👑𝕿𝖆𝖗𝖋𝖆𝖓𝖉 89👑 – a creative force of code, balance, and imagination.  
+I build, break, and rebuild digital worlds, from backend systems to Minecraft realms.
+
+- 👾 Passionate about Game Dev, Sonic, Minecraft, and open-source adventures.
+- 🧩 Constantly learning, breaking limits, and exploring new tech realms.
+- ⚙️ I don't just write code. I craft systems.  
+- 🧪 Experimenting with the edge of programming and design.
+
+> "Balance in code. Power in logic. Art in architecture."
+
+---
+
+## 🧰 Skills & Technologies
+
+### 🛠️ Ultimate Stack
+
+- Full-stack web development: Frontend, Backend, APIs, DevOps.
+- Game development: Minecraft modding, Unity 3D, Sonic Engine edits.
+- Automation, scripting, reverse engineering, bots & more.
+
+### 🧠 Core Skills
+
+- Architecture Design (Monolith & Microservices)
+- System Performance Optimization
+- High-Speed Backend Development
+- Game Modding & Engine Tweaks
+- UI/UX Design (Figma, TailwindCSS)
+- API Integration (REST / GraphQL / gRPC)
+- GitHub Power User
+
+---
+
+## 🌐 Programming Languages & Technologies
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/html-5.png"/><br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/css3.png"/><br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/javascript.png"/><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/typescript.png"/><br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/python.png"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br/>Java
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br/>C++
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/c-programming.png"/><br/>C
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br/>C#
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/golang.png"/><br/>Go
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/rust-programming-language.png"/><br/>Rust
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/r-project.png"/><br/>R
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/swift.png"/><br/>Swift
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/kotlin.png"/><br/>Kotlin
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/dart.png"/><br/>Dart
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/lua-language.png"/><br/>Lua
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/haskell.png"/><br/>Haskell
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/scala.png"/><br/>Scala
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/solidity.png"/><br/>Solidity
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/sql.png"/><br/>SQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/json.png"/><br/>JSON
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/markdown.png"/><br/>Markdown
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/graphql.png"/><br/>GraphQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/yaml.png"/><br/>YAML
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/bash.png"/><br/>Bash
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/powershell.png"/><br/>PowerShell
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/perl.png"/><br/>Perl
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/matlab.png"/><br/>MATLAB
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/blender-3d.png"/><br/>Blender
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/php.png"/><br/>PHP
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/ruby-programming-language.png"/><br/>Ruby
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/console.png"/><br/>Assembly
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/cobol.png"/><br/>COBOL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/fortran.png"/><br/>Fortran
+    </td>
+  </tr>
+</table>
+
+
+
+#### 🧠 Functional & Declarative Languages
+- Clojure (JVM-based Lisp)
+- Elixir (Erlang VM, concurrent)
+- Erlang (telecom-grade concurrency)
+- F# (.NET functional)
+- Haskell (pure functional)
+- Lisp (Common Lisp, Scheme, Emacs Lisp)
+- ML (Standard ML, Moscow ML)
+- OCaml (practical functional)
+- Racket (extensible Lisp)
+- Scala (object-functional hybrid)
+- Clean (pure functional)
+- Curry (functional logic)
+- Idris (dependently typed)
+- Mercury (logical functional)
+- Oz (multi-paradigm declarative)
+
+#### 📊 Data Science, Stats & Scientific Computing
+- Julia (high-performance numerical)
+- MATLAB (matrix lab, engineering)
+- R (statistical computing)
+- SAS (analytics suite)
+- SPSS (statistical package)
+- Stata (econometrics)
+- Chapel (parallel scientific)
+- Fortran (legacy scientific)
+- IDL (interactive data lang)
+- Octave (MATLAB clone)
+- S-Plus (R predecessor)
+- Wolfram Language (Mathematica)
+
+#### 🐍 Scripting & Automation
+- AppleScript (macOS automation)
+- AutoHotkey (Windows scripting)
+- Fish (user-friendly shell)
+- Groovy (JVM scripting)
+- PowerShell (Microsoft automation)
+- Ruby (elegant scripting)
+- Tcl/Tk (tool command lang)
+- VBScript (Visual Basic scripting)
+- Zsh (advanced shell)
+- Awk (text processing)
+- Batch (.bat files)
+- Expect (Tcl extension for automation)
+- Lua (lightweight scripting)
+- Perl (text munging king)
+- Python (scripting beast)
+- Rexx (IBM scripting)
+- Sed (stream editor)
+- Shell (Bourne, Csh, Ksh)
+
+#### 🎮 Game Development & Engines
+- C# (Unity engine)
+- C++ (Unreal, Godot C++)
+- GDScript (Godot native)
+- Lua (Love2D, Roblox, Garry's Mod)
+- Pawn (SA-MP, AMX Mod X, SourceMod)
+- UnrealScript (legacy Unreal)
+- AngelScript (generic scripting)
+- Chaiscript (header-only embeddable)
+- Squirrel (lightweight VM)
+- Haxe (cross-platform)
+- ActionScript (Flash/Adobe Animate)
+- ShaderLab (Unity shaders)
+- GLSL (OpenGL shaders)
+- HLSL (DirectX shaders)
+- CG (NVIDIA shaders)
+
+#### 🧬 Low-Level, Embedded & Hardware
+- Ada (safety-critical)
+- Assembly (x86, ARM, MIPS, RISC-V, AVR)
+- C (embedded systems)
+- Forth (stack-based embedded)
+- Rust (safe systems)
+- Verilog (hardware description)
+- VHDL (VHSIC hardware)
+- SystemVerilog (advanced HDL)
+- Chisel (Scala-based HDL)
+- Bluespec (hardware synthesis)
+- SpinalHDL (Scala HDL)
+- MyHDL (Python HDL)
+- AHIR (VHDL subset)
+- Handel-C (C for FPGAs)
+- Occam (parallel channels)
+
+#### 📜 Domain-Specific: Markup, Query & Config
+- CSS (styling)
+- GraphQL (API query)
+- HTML (hypertext markup)
+- JSON/YAML/TOML/INI (config formats)
+- LaTeX (TeX for docs)
+- Markdown (light markup)
+- SQL (relational query) + variants (PL/SQL, T-SQL, PostgreSQL PL/pgSQL)
+- Makefile (GNU Make)
+- CMake (cross-platform build)
+- Meson (build system)
+- Ninja (build executor)
+- SCons (Python-based build)
+- Waf (Python build)
+- XSLT (XML transform)
+- XPath (XML query)
+- DTD (document type def)
+- RELAX NG (schema lang)
+
+#### 🏗️ Systems & Concurrent Languages
+- D (systems with GC)
+- Go (simple concurrency)
+- Pony (actor-model safe)
+- Zig (low-level C alternative)
+- Crystal (Ruby-like compiled)
+- Nim (Pythonic systems)
+- V (simple, fast)
+- Odin (data-oriented)
+- Carbon (C++ successor)
+- Circle (C++ bare metal)
+- Redox (Rust OS lang)
+- ATS (verified programming)
+
+#### 🌐 Web & Frontend-Specific
+- JSX/TSX (React syntax)
+- SASS/SCSS/LESS/Stylus (CSS preprocessors)
+- Vue SFC (single-file components)
+- Handlebars (templating)
+- Pug/Jade (HTML templating)
+- EJS (embedded JS)
+- Liquid (Shopify templating)
+- Twig (PHP templating)
+- Mustache (logic-less)
+- WebAssembly (Wasm, low-level web)
+- Elm (frontend functional)
+- ReasonML (OCaml for JS)
+
+#### 📱 Mobile & Cross-Platform Development
+- Kotlin (Android native)
+- Swift (iOS/macOS)
+- Dart (Flutter)
+- Java (Android legacy)
+- Objective-C (iOS legacy)
+- React Native (JS for mobile)
+- Xamarin (C# cross-platform)
+- Cordova/PhoneGap (hybrid web)
+- Ionic (web tech mobile)
+- NativeScript (JS/TS native)
+- Uno Platform (.NET cross-platform)
+
+#### 🤖 AI/ML & Specialized Computing
+- TensorFlow (Python/Kotlin/Swift)
+- PyTorch (Python dynamic graphs)
+- JAX (NumPy + autodiff)
+- Chapel (parallel ML)
+- Halide (image processing)
+- CuPy (GPU NumPy)
+- MXNet (scalable DL)
+- ONNX (interoperable models)
+
+#### 🔒 Security, Blockchain & Crypto
+- Solidity (Ethereum contracts)
+- Vyper (secure Pythonic contracts)
+- Rust (Solana, Polkadot)
+- Move (Aptos, Sui blockchain)
+- Cairo (StarkNet)
+- Clarity (Stacks blockchain)
+- Michelson (Tezos)
+- Scilla (Zilliqa)
+- Yul (Ethereum intermediate)
+
+#### 🏢 Enterprise & Legacy Languages
+- COBOL (business mainframes)
+- PL/I (IBM enterprise)
+- RPG (IBM reports)
+- ABAP (SAP)
+- MUMPS (medical databases)
+- JOVIAL (military systems)
+- Coral 66 (defense)
+- Simula (object-oriented pioneer)
+
+#### 🌍 International & Cultural Languages
+- APL (array programming)
+- J (APL successor)
+- K (vector lang)
+- Q (kdb+ query)
+- Smalltalk (pure OO)
+- Self (prototype-based)
+- Factor (stack-oriented)
+
+#### 🧱 Esoteric, Educational & Fun Languages
+- Befunge (2D tape)
+- Brainfuck (minimalist)
+- COBOL (yes, legacy fun)
+- INTERCAL (compiler complainer)
+- LOLCODE (meme lang)
+- Malbolge (obfuscated hell)
+- Shakespeare (dramatic)
+- Whitespace (invisible code)
+- Piet (image-based)
+- Chef (recipe code)
+- Rockstar (lyrical)
+- Velato (MIDI music)
+- JSFuck (JS with []()!+)
+- Ook! ( orangutan code)
+- Binary (pure 01s)
+- Unlambda (functional lambda calculus)
+
+---
+
+## 📊 Stats & Power Level
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-7ee787?style=for-the-badge&labelColor=0d1117&logo=github" />
-  <img src="https://img.shields.io/badge/VIBE-CYBERPUNK-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/IDENTITY-TARFAND%2089-f7c948?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PHILOSOPHY-LIGHT%20%26%20BALANCE-b56cff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7ee787" width="100%" alt="divider"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFD700" alt="Top Languages" />
 </p>
 
-</div>
-
 ---
 
-## 🜂 About Me
-
-I am **Tarfand 89** — a disciplined creator with a cinematic mind and a systems-first heart.
-
-I build experiences that feel alive: interfaces with atmosphere, tools with intelligence, and codebases that hold their shape under pressure.  
-My work lives where **design, logic, performance, and identity** meet.
-
-I do not chase trends.  
-I shape presence.
-
-I do not write code to fill space.  
-I write code to leave a mark.
-
-> **Light in the structure. Balance in the execution. Gravity in the presence.**
-
----
-
-## ⚙️ What I Build
+## 🏆 Achievements of Light
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20TypeScript-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Python%20%7C%20Go-7ee787?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Systems-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Assembly-f7c948?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Creative%20Tech-WebGL%20%7C%20GLSL%20%7C%20WASM%20%7C%20Canvas-b56cff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Infra-Linux%20%7C%20Git%20%7C%20Docker%20%7C%20Nginx-ffffff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </p>
-
-### Signature domains
-
-- Cinematic web systems with motion, contrast, and premium visual hierarchy.
-- Production-ready backends, routers, APIs, dashboards, and admin panels.
-- Scripting, automation, deployment flows, and developer tooling.
-- Game-adjacent engineering, modding concepts, and interactive worlds.
-- Brand identities that feel like command centers, not templates.
 
 ---
 
-## 🧠 Mindset / Philosophy
+## 🎮 Interests
+
+- 💻 Programming (every damn language)
+- 🌌 Sonic universe and game modding
+- 🧱 Minecraft (mods, servers, plugins, datapacks)
+- 🎮 Indie games, classic games, code-based games
+- 🎨 Design, animations, and interactive systems
+
+---
+
+## 📞 Connect in the Cosmos
+
+Forge alliances across realms. Let's collaborate on epic builds, debug cosmic anomalies, or brainstorm the next mod revolution. ⚡
+
+<div align="center">
+
+<a href="https://rebrand.ly/tarfand_89-a20653" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rule-Precision%20Over%20Noise-7ee787?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Rule-Beauty%20Must%20Serve%20Structure-00d9ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Rule-Ship%20Like%20a%20Legend-f7c948?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Rule-Make%20It%20Feel%20Alive-b56cff?style=flat-square&labelColor=0d1117" />
+  <em>Open to mentorship, collaborations, and interstellar idea exchanges. DM away! 🌌</em><br>
+  <strong>— 👑 Tarfand 89 👑</strong>
 </p>
 
-<blockquote>
-  <p>
-    I believe strong systems should feel inevitable.<br>
-    I believe motion should sharpen meaning, not replace it.<br>
-    I believe the best design is silent until it commands attention.<br>
-    I believe balance is not softness — it is mastery.
-  </p>
-</blockquote>
+---
+
+## ☄️ Final Words
+
+> “I’m not just a developer.  
+> I’m a world-builder.  
+> I’m Tarfand 89.”
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Light and Balance">
+</p>
 
 ---
 
-## 🜁 Command Layer
+<h3 align="center">🌍 Create Anything — By 👑 ㄒ卂尺千卂几ᗪ ❽𝟡 👑</h3>
 
-<div align="center">
-
-<svg width="100%" viewBox="0 0 1400 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Command layer">
-  <defs>
-    <linearGradient id="c1" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7ee787"/>
-      <stop offset="50%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#f7c948"/>
-    </linearGradient>
-    <filter id="g1">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <rect x="8" y="8" width="1384" height="164" rx="22" fill="#0d1117" stroke="#1f2a44" stroke-width="2"/>
-  <path d="M 35 45 H 1365" stroke="url(#c1)" stroke-width="2" opacity="0.85" filter="url(#g1)"/>
-  <path d="M 35 136 H 1365" stroke="url(#c1)" stroke-width="2" opacity="0.35" filter="url(#g1)"/>
-
-  <text x="55" y="82" fill="#7ee787" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">CORE</text>
-  <text x="145" y="82" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">ACTIVE</text>
-
-  <text x="55" y="118" fill="#00d9ff" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">MODE</text>
-  <text x="145" y="118" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">CREATOR</text>
-
-  <text x="520" y="82" fill="#f7c948" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">SIGNAL</text>
-  <text x="655" y="82" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">HIGH PRECISION</text>
-
-  <text x="520" y="118" fill="#b56cff" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">STYLE</text>
-  <text x="655" y="118" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">CINEMATIC / DARK / BALANCED</text>
-
-  <text x="1045" y="82" fill="#7ee787" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">FOCUS</text>
-  <text x="1135" y="82" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">WORLD-BUILDING</text>
-
-  <text x="1045" y="118" fill="#00d9ff" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">SIGNATURE</text>
-  <text x="1160" y="118" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">TARFAND 89</text>
-</svg>
-
-</div>
-
----
-
-## 🧬 Languages & Technologies
-
-### Frontend / Web
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Vue` · `Nuxt` · `Svelte` · `Angular` · `Tailwind CSS` · `Sass` · `SCSS` · `Less` · `Stylus` · `EJS` · `Handlebars` · `Pug` · `Liquid` · `Twig` · `Mustache` · `Elm` · `ReasonML` · `WebAssembly`
-
-### Backend / Systems
-`PHP` · `Node.js` · `Python` · `Java` · `C` · `C++` · `C#` · `Go` · `Rust` · `D` · `Zig` · `Nim` · `Crystal` · `Odin` · `V` · `Swift` · `Kotlin` · `Scala` · `Ruby` · `Lua` · `Perl` · `Elixir` · `Erlang` · `Haskell` · `OCaml` · `F#` · `Clojure`
-
-### Functional / Declarative
-`Haskell` · `OCaml` · `F#` · `Clojure` · `Elixir` · `Erlang` · `Scala` · `Lisp` · `Common Lisp` · `Scheme` · `Racket` · `Curry` · `Idris` · `Mercury` · `Oz` · `Clean` · `Standard ML` · `Prolog` · `Datalog` · `Factor` · `Smalltalk`
-
-### Game Dev / Graphics / Engine
-`C#` · `C++` · `Lua` · `GDScript` · `UnrealScript` · `AngelScript` · `ChaiScript` · `Squirrel` · `Haxe` · `ActionScript` · `ShaderLab` · `GLSL` · `HLSL` · `CG` · `Unity` · `Unreal Engine` · `Godot` · `Love2D`
-
-### Low-Level / Embedded / Hardware
-`C` · `C++` · `Rust` · `Assembly` · `Ada` · `Forth` · `Verilog` · `VHDL` · `SystemVerilog` · `Chisel` · `Bluespec` · `SpinalHDL` · `MyHDL` · `Occam` · `Handel-C` · `AVR` · `ARM` · `MIPS` · `RISC-V` · `Embedded C`
-
-### Data / Science / Research
-`Python` · `R` · `Julia` · `MATLAB` · `Octave` · `Fortran` · `SAS` · `SPSS` · `Stata` · `Chapel` · `IDL` · `Wolfram Language` · `CuPy` · `JAX` · `PyTorch` · `TensorFlow` · `ONNX` · `Halide` · `NumPy`
-
-### Scripting / Automation
-`Bash` · `Zsh` · `Fish` · `PowerShell` · `Python` · `Ruby` · `Perl` · `Lua` · `Groovy` · `Tcl` · `Expect` · `Awk` · `Sed` · `Batch` · `AutoHotkey` · `AppleScript` · `VBScript` · `Rexx`
-
-### Web / Meta Languages
-`HTML` · `CSS` · `Markdown` · `JSON` · `YAML` · `TOML` · `INI` · `XML` · `XSLT` · `XPath` · `GraphQL` · `SQL` · `PL/SQL` · `T-SQL` · `PostgreSQL PL/pgSQL` · `Makefile` · `CMake` · `Meson` · `Ninja` · `SCons`
-
-### Enterprise / Legacy / Special
-`COBOL` · `PL/I` · `RPG` · `ABAP` · `MUMPS` · `JOVIAL` · `Coral 66` · `Simula` · `Self` · `APL` · `J` · `K` · `Q` · `Befunge` · `Brainfuck` · `INTERCAL` · `LOLCODE` · `Malbolge` · `Shakespeare` · `Whitespace` · `Piet` · `Chef` · `Rockstar` · `Velato` · `JSFuck` · `Ook!` · `Binary` · `Unlambda`
-
----
-
-## 🗂️ Full Language Gallery
-
-<details open>
-<summary><b>Frontend / Web</b></summary>
-
-`HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`, `Vue`, `Nuxt`, `Svelte`, `Angular`, `Tailwind CSS`, `Sass`, `SCSS`, `Less`, `Stylus`, `EJS`, `Handlebars`, `Pug`, `Liquid`, `Twig`, `Mustache`, `Elm`, `ReasonML`, `WebAssembly`
-
-</details>
-
-<details>
-<summary><b>Backend / Systems</b></summary>
-
-`PHP`, `Node.js`, `Python`, `Java`, `C`, `C++`, `C#`, `Go`, `Rust`, `D`, `Zig`, `Nim`, `Crystal`, `Odin`, `V`, `Swift`, `Kotlin`, `Scala`, `Ruby`, `Lua`, `Perl`, `Elixir`, `Erlang`, `Haskell`, `OCaml`, `F#`, `Clojure`
-
-</details>
-
-<details>
-<summary><b>Functional / Declarative</b></summary>
-
-`Haskell`, `OCaml`, `F#`, `Clojure`, `Elixir`, `Erlang`, `Scala`, `Lisp`, `Common Lisp`, `Scheme`, `Racket`, `Curry`, `Idris`, `Mercury`, `Oz`, `Clean`, `Standard ML`, `Prolog`, `Datalog`, `Factor`, `Smalltalk`
-
-</details>
-
-<details>
-<summary><b>Game Dev / Graphics / Engine</b></summary>
-
-`C#`, `C++`, `Lua`, `GDScript`, `UnrealScript`, `AngelScript`, `ChaiScript`, `Squirrel`, `Haxe`, `ActionScript`, `ShaderLab`, `GLSL`, `HLSL`, `CG`, `Unity`, `Unreal Engine`, `Godot`, `Love2D`
-
-</details>
-
-<details>
-<summary><b>Low-Level / Embedded / Hardware</b></summary>
-
-`C`, `C++`, `Rust`, `Assembly`, `Ada`, `Forth`, `Verilog`, `VHDL`, `SystemVerilog`, `Chisel`, `Bluespec`, `SpinalHDL`, `MyHDL`, `Occam`, `Handel-C`, `AVR`, `ARM`, `MIPS`, `RISC-V`, `Embedded C`
-
-</details>
-
-<details>
-<summary><b>Data / Science / Research</b></summary>
-
-`Python`, `R`, `Julia`, `MATLAB`, `Octave`, `Fortran`, `SAS`, `SPSS`, `Stata`, `Chapel`, `IDL`, `Wolfram Language`, `CuPy`, `JAX`, `PyTorch`, `TensorFlow`, `ONNX`, `Halide`, `NumPy`
-
-</details>
-
-<details>
-<summary><b>Scripting / Automation</b></summary>
-
-`Bash`, `Zsh`, `Fish`, `PowerShell`, `Python`, `Ruby`, `Perl`, `Lua`, `Groovy`, `Tcl`, `Expect`, `Awk`, `Sed`, `Batch`, `AutoHotkey`, `AppleScript`, `VBScript`, `Rexx`
-
-</details>
-
-<details>
-<summary><b>Web / Meta Languages</b></summary>
-
-`HTML`, `CSS`, `Markdown`, `JSON`, `YAML`, `TOML`, `INI`, `XML`, `XSLT`, `XPath`, `GraphQL`, `SQL`, `PL/SQL`, `T-SQL`, `PostgreSQL PL/pgSQL`, `Makefile`, `CMake`, `Meson`, `Ninja`, `SCons`
-
-</details>
-
-<details>
-<summary><b>Enterprise / Legacy / Special</b></summary>
-
-`COBOL`, `PL/I`, `RPG`, `ABAP`, `MUMPS`, `JOVIAL`, `Coral 66`, `Simula`, `Self`, `APL`, `J`, `K`, `Q`, `Befunge`, `Brainfuck`, `INTERCAL`, `LOLCODE`, `Malbolge`, `Shakespeare`, `Whitespace`, `Piet`, `Chef`, `Rockstar`, `Velato`, `JSFuck`, `Ook!`, `Binary`, `Unlambda`
-
-</details>
-
----
-
-## 📊 Signal Readout
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tarfand-89-God&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarfand-89-God&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7c948&text_color=ffffff" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarfand-89-God&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=7ee787&fire=f7c948&currStreakLabel=ffffff" alt="Streak Stats" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarfand-89-God&theme=github-compact&bg_color=0d1117&color=ffffff&line=7ee787&point=00d9ff&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## ✦ Signature Quote
-
-<div align="center">
-
-> **I do not build to be seen.  
-> I build to be remembered.  
-> I do not chase noise.  
-> I engineer presence.  
-> I am Tarfand 89 — and balance is my power.**
-
-</div>
-
----
-
-## 🜁 Final Mark
-
-<div align="center">
-
-<svg width="100%" viewBox="0 0 1600 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Closing mark">
-  <defs>
-    <linearGradient id="fbg" x1="0" x2="1">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="50%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#12081f"/>
-    </linearGradient>
-    <linearGradient id="fneon" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7ee787"/>
-      <stop offset="45%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#f7c948"/>
-    </linearGradient>
-    <filter id="fglow">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <rect width="1600" height="220" rx="24" fill="url(#fbg)"/>
-  <path d="M 130 58 H 1470" stroke="url(#fneon)" stroke-width="2" opacity="0.7" filter="url(#fglow)"/>
-  <path d="M 130 164 H 1470" stroke="url(#fneon)" stroke-width="2" opacity="0.35" filter="url(#fglow)"/>
-
-  <text x="800" y="98" text-anchor="middle" fill="#ffffff" font-size="44" font-family="Segoe UI, Arial, sans-serif" font-weight="900" letter-spacing="5">
-    TARFAND 89
-  </text>
-  <text x="800" y="138" text-anchor="middle" fill="#7ee787" font-size="20" font-family="Consolas, Monaco, monospace" letter-spacing="4">
-    THE GOD OF LIGHT & BALANCE
-  </text>
-  <text x="800" y="176" text-anchor="middle" fill="#cbd5e1" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="3">
-    LIGHT IN THE DARK  //  BALANCE IN THE CODE  //  POWER IN THE BUILD
-  </text>
-</svg>
-
-<br>
-
-**∎ END OF TRANSMISSION ∎**
-
-</div>
+<!-- END OF THE LEGEND -->
