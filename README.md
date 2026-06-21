@@ -315,7 +315,7 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=18&margin-h=18"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2"/>
 
 </div>
 
