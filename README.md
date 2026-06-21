@@ -1,58 +1,76 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 1400 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tarfand 89 - The God of Light and Balance">
+<svg width="100%" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tarfand 89 — The God of Light & Balance">
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="55%" stop-color="#0b1022"/>
-      <stop offset="100%" stop-color="#120a24"/>
+      <stop offset="0%" stop-color="#04060f"/>
+      <stop offset="52%" stop-color="#0a1022"/>
+      <stop offset="100%" stop-color="#12081f"/>
     </linearGradient>
+
     <linearGradient id="neon" x1="0" x2="1">
       <stop offset="0%" stop-color="#7ee787"/>
       <stop offset="45%" stop-color="#00d9ff"/>
       <stop offset="100%" stop-color="#f7c948"/>
     </linearGradient>
+
     <linearGradient id="violet" x1="0" x2="1">
       <stop offset="0%" stop-color="#8b5cf6"/>
       <stop offset="100%" stop-color="#b56cff"/>
     </linearGradient>
+
     <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
-      <path d="M 56 0 H 0 V 56" fill="none" stroke="#7ee787" stroke-opacity="0.08" stroke-width="1"/>
+
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 H 0 V 60" fill="none" stroke="#7ee787" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
+
+    <radialGradient id="halo" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#7ee787" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <rect width="1400" height="460" rx="28" fill="url(#bg)"/>
-  <rect width="1400" height="460" rx="28" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#halo)"/>
 
-  <path d="M 80 90 H 320" stroke="url(#neon)" stroke-width="3" opacity="0.9" filter="url(#glow)"/>
-  <path d="M 1080 90 H 1320" stroke="url(#neon)" stroke-width="3" opacity="0.9" filter="url(#glow)"/>
-  <path d="M 80 370 H 320" stroke="url(#violet)" stroke-width="3" opacity="0.9" filter="url(#glow)"/>
-  <path d="M 1080 370 H 1320" stroke="url(#violet)" stroke-width="3" opacity="0.9" filter="url(#glow)"/>
+  <path d="M 120 108 H 380" stroke="url(#neon)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
+  <path d="M 1220 108 H 1480" stroke="url(#neon)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
+  <path d="M 120 410 H 380" stroke="url(#violet)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
+  <path d="M 1220 410 H 1480" stroke="url(#violet)" stroke-width="3" filter="url(#glow)" opacity="0.95"/>
 
-  <circle cx="165" cy="120" r="42" fill="none" stroke="#7ee787" stroke-width="2" opacity="0.75"/>
-  <circle cx="1235" cy="338" r="42" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.75"/>
-  <circle cx="1180" cy="120" r="10" fill="#f7c948" filter="url(#glow)"/>
-  <circle cx="220" cy="338" r="10" fill="#b56cff" filter="url(#glow)"/>
+  <circle cx="210" cy="148" r="42" fill="none" stroke="#7ee787" stroke-width="2" opacity="0.7"/>
+  <circle cx="1390" cy="372" r="42" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.7"/>
+  <circle cx="240" cy="372" r="10" fill="#b56cff" filter="url(#glow)"/>
+  <circle cx="1360" cy="148" r="10" fill="#f7c948" filter="url(#glow)"/>
 
-  <text x="700" y="168" text-anchor="middle" fill="#ffffff" font-size="74" font-family="Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="6">
+  <text x="800" y="176" text-anchor="middle" fill="#ffffff" font-size="80" font-family="Segoe UI, Arial, sans-serif" font-weight="900" letter-spacing="8">
     TARFAND 89
   </text>
-  <text x="700" y="224" text-anchor="middle" fill="#7ee787" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="4">
+
+  <text x="800" y="236" text-anchor="middle" fill="#7ee787" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="5">
     THE GOD OF LIGHT & BALANCE
   </text>
-  <text x="700" y="276" text-anchor="middle" fill="#cbd5e1" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">
+
+  <text x="800" y="284" text-anchor="middle" fill="#cbd5e1" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2.2">
     CYBER COMMAND CENTER  //  BUILDER OF WORLDS  //  ARCHITECT OF LOGIC  //  KEEPER OF THE CODE
   </text>
-  <text x="700" y="318" text-anchor="middle" fill="#00d9ff" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="3">
+
+  <text x="800" y="330" text-anchor="middle" fill="#00d9ff" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="3.2">
     SIGNAL / STRUCTURE / GRAVITY / PRECISION / ELEGANCE / CONTROL
   </text>
+
+  <path d="M 260 94 C 420 20, 1180 20, 1340 94" fill="none" stroke="#00d9ff" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="64" dur="8s" repeatCount="indefinite"/>
+  </path>
 </svg>
 
 <br>
@@ -136,17 +154,51 @@ I write code to leave a mark.
 
 ---
 
-## 🜁 Cinematic Layer
+## 🜁 Command Layer
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="glow" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="signal" />
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="280" alt="core" />
-</p>
+<div align="center">
+
+<svg width="100%" viewBox="0 0 1400 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Command layer">
+  <defs>
+    <linearGradient id="c1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7ee787"/>
+      <stop offset="50%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#f7c948"/>
+    </linearGradient>
+    <filter id="g1">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="1384" height="164" rx="22" fill="#0d1117" stroke="#1f2a44" stroke-width="2"/>
+  <path d="M 35 45 H 1365" stroke="url(#c1)" stroke-width="2" opacity="0.85" filter="url(#g1)"/>
+  <path d="M 35 136 H 1365" stroke="url(#c1)" stroke-width="2" opacity="0.35" filter="url(#g1)"/>
+
+  <text x="55" y="82" fill="#7ee787" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">CORE</text>
+  <text x="145" y="82" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">ACTIVE</text>
+
+  <text x="55" y="118" fill="#00d9ff" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">MODE</text>
+  <text x="145" y="118" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">CREATOR</text>
+
+  <text x="520" y="82" fill="#f7c948" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">SIGNAL</text>
+  <text x="655" y="82" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">HIGH PRECISION</text>
+
+  <text x="520" y="118" fill="#b56cff" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">STYLE</text>
+  <text x="655" y="118" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">CINEMATIC / DARK / BALANCED</text>
+
+  <text x="1045" y="82" fill="#7ee787" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">FOCUS</text>
+  <text x="1135" y="82" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">WORLD-BUILDING</text>
+
+  <text x="1045" y="118" fill="#00d9ff" font-size="18" font-family="Consolas, Monaco, monospace" letter-spacing="2">SIGNATURE</text>
+  <text x="1160" y="118" fill="#ffffff" font-size="18" font-family="Consolas, Monaco, monospace">TARFAND 89</text>
+</svg>
+
+</div>
 
 ---
 
-## 🧬 Technology Matrix
+## 🧬 Languages & Technologies
 
 ### Frontend / Web
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Vue` · `Nuxt` · `Svelte` · `Angular` · `Tailwind CSS` · `Sass` · `SCSS` · `Less` · `Stylus` · `EJS` · `Handlebars` · `Pug` · `Liquid` · `Twig` · `Mustache` · `Elm` · `ReasonML` · `WebAssembly`
@@ -177,7 +229,7 @@ I write code to leave a mark.
 
 ---
 
-## 🗃️ Full Language Gallery
+## 🗂️ Full Language Gallery
 
 <details open>
 <summary><b>Frontend / Web</b></summary>
@@ -269,14 +321,6 @@ I write code to leave a mark.
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-
-</div>
-
 ---
 
 ## ✦ Signature Quote
@@ -297,14 +341,41 @@ I write code to leave a mark.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7ee787" width="100%" alt="separator"/>
+<svg width="100%" viewBox="0 0 1600 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Closing mark">
+  <defs>
+    <linearGradient id="fbg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#12081f"/>
+    </linearGradient>
+    <linearGradient id="fneon" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7ee787"/>
+      <stop offset="45%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#f7c948"/>
+    </linearGradient>
+    <filter id="fglow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="220" rx="24" fill="url(#fbg)"/>
+  <path d="M 130 58 H 1470" stroke="url(#fneon)" stroke-width="2" opacity="0.7" filter="url(#fglow)"/>
+  <path d="M 130 164 H 1470" stroke="url(#fneon)" stroke-width="2" opacity="0.35" filter="url(#fglow)"/>
+
+  <text x="800" y="98" text-anchor="middle" fill="#ffffff" font-size="44" font-family="Segoe UI, Arial, sans-serif" font-weight="900" letter-spacing="5">
+    TARFAND 89
+  </text>
+  <text x="800" y="138" text-anchor="middle" fill="#7ee787" font-size="20" font-family="Consolas, Monaco, monospace" letter-spacing="4">
+    THE GOD OF LIGHT & BALANCE
+  </text>
+  <text x="800" y="176" text-anchor="middle" fill="#cbd5e1" font-size="14" font-family="Consolas, Monaco, monospace" letter-spacing="3">
+    LIGHT IN THE DARK  //  BALANCE IN THE CODE  //  POWER IN THE BUILD
+  </text>
+</svg>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&text=Tarfand%2089&fontSize=40&fontAlignY=35&desc=The%20God%20of%20Light%20%26%20Balance%20%E2%8B%86%20END%20OF%20TRANSMISSION&descAlignY=58&animation=fadeIn&fontColor=ffffff&descColor=00d9ff&color=0d1117" width="100%" alt="footer-banner"/>
-
-<br>
-
-**∎ LIGHT IN THE DARK ∎ BALANCE IN THE CODE ∎ POWER IN THE BUILD ∎**
+**∎ END OF TRANSMISSION ∎**
 
 </div>
