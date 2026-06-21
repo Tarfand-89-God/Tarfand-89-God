@@ -311,16 +311,6 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 ---
 
-# 👑 HALL OF LEGENDS
-
-<div align="center">
-
-[[<img src="https://github-profile-trophy.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2"/>](https://github-profile-trophy-orcin-eta.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)](https://github-profile-trophy-reiyua-mirror.vercel.app/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)
-
-</div>
-
----
-
 # 📡 LIVE SIGNAL
 
 <div align="center">
