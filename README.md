@@ -245,7 +245,7 @@ I build, break, and rebuild digital worlds, from backend systems to Minecraft re
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1800&color=7EE787&center=true&vCenter=true&width=950&lines=SYSTEM+STATUS+%E2%96%B6+ONLINE;INITIALIZING+COMMAND+CENTER...;LOADING+INTELLIGENCE+DATABASE...;POWER+LEVEL+%E2%96%B6+MAXIMUM;WELCOME+TO+THE+KINGDOM+OF+LIGHT+%26+BALANCE" />
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1800&color=7EE787&center=true&vCenter=true&width=950&lines=SYSTEM+STATUS+%E2%96%B6+ONLINE;INITIALIZING+COMMAND+CENTER...;LOADING+INTELLIGENCE+DATABASE...;POWER+LEVEL+%E2%96%B6+MAXIMUM;WELCOME+TO+THE+KINGDOM+OF+LIGHT+%26+BALANCE" />](https://trophygh.kolioaris.xyz/?username=Tarfand-89-God&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)
 
 </p>
 
